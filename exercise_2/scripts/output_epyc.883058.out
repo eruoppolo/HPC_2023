@@ -1,0 +1,6 @@
+Job Statistics for Job ID 883058:
+JobID           JobName  Partition     MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- 
+883058             bash       EPYC                         00:01:51    RUNNING 
+883058.batch      batch                                    00:01:51    RUNNING 
+883058.exte+     extern                                    00:01:51    RUNNING 
