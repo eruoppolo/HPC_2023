@@ -40,7 +40,10 @@ int compute_mandelbrot(double cx, double cy, int max_iter) {
 }
 
 int main(int argc, char** argv) {
+  
     int provided;
+    int rank, size;
+  
     MPI_Init_thread(&argc, &argv, MPI_THREAD_FUNNELED, &provided);
     if (provided < MPI_THREAD_FUNNELED) {
         printf("Error: MPI implementation does not support MPI_THREAD_FUNNELED\n");
@@ -48,7 +51,6 @@ int main(int argc, char** argv) {
         exit(1);
     }
     
-    int rank, size;
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);
     MPI_Comm_size(MPI_COMM_WORLD, &size);
     
