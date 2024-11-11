@@ -9,14 +9,14 @@
 
 module load openMPI/4.1.6/gnu/14.2.1
 
-# Ottenere i nomi dei nodi assegnati
-#
+# Get nodes ID
+
 echo "Test 2"
 nodes=($(scontrol show hostname))
 hostname1=${nodes[0]}
-hostname2=${nodes[1]:-$hostname1} # Se viene assegnato un solo nodo, utilizza lo stesso nodo per hostname2
+hostname2=${nodes[1]:-$hostname1} # If only one node, use the same for hostname2
 
-# Specificare le coppie di core per ciascun test
+# Core pairs for each test
 core_pairs=(
     "0,1"    # Same CCX
     "0,4"    # Same CCD, Different CCX
@@ -26,7 +26,7 @@ core_pairs=(
     "0,0"    # Different NODE (uso di hostname1 e hostname2)
 )
 
-# Eseguire i test di latenza
+# Latency tests
 echo "Running osu_latency tests across different core configurations..."
 
 # Test Same CCX
@@ -49,7 +49,7 @@ mpirun -np 2 --cpu-list ${core_pairs[3]} ../../../pt2pt/standard/osu_latency
 echo "Testing Different SOCKET"
 mpirun -np 2 --cpu-list ${core_pairs[4]} ../../../pt2pt/standard/osu_latency
 
-# Test Different NODE (usando hostname1 e hostname2)
+# Test Different NODE ( hostname1 e hostname2 )
 echo "Testing Different NODE"
 mpirun -np 2 --host $hostname1,$hostname2 --cpu-list ${core_pairs[5]} ../../../pt2pt/standard/osu_latency
 
