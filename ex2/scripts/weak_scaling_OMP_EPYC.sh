@@ -8,6 +8,7 @@
 #SBATCH --time=00:40:00
 #SBATCH --partition=EPYC
 #SBATCH --exclusive
+
 module load openMPI/4.1.6/gnu/14.2.1
 
 # Executable
