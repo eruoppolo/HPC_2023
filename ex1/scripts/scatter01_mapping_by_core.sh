@@ -28,11 +28,11 @@ do
         size=$((2**size_power))
 
         # Perform osu_scatter0
-        result_bcast=$(mpirun --map-by core -np $processes --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_scatter_algorithm 0 ../osu_scatter -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
+        result_scatter=$(mpirun --map-by core -np $processes --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_scatter_algorithm 0 ../osu_scatter -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
 
-        echo "$processes, $size, $result_bcast"
+        echo "$processes, $size, $result_scatter"
         # Write results on CSV
-        echo "$processes,$size,$result_bcast" >> scatter0_core_mapping_epyc.csv
+        echo "$processes,$size,$result_scatter" >> scatter0_core_mapping_epyc.csv
     done
 done
 #----------------SCATTER 1---------------
@@ -48,10 +48,10 @@ do
         size=$((2**size_power))
 
         # Perform osu_scatter1
-        result_bcast=$(mpirun --map-by core -np $processes --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_scatter_algorithm 1 ../osu_scatter -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
+        result_scatter=$(mpirun --map-by core -np $processes --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_scatter_algorithm 1 ../osu_scatter -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
 
-        echo "$processes, $size, $result_bcast"
+        echo "$processes, $size, $result_scatter"
         # Write results on CSV
-        echo "$processes,$size,$result_bcast" >> scatter1_core_mapping_epyc.csv
+        echo "$processes,$size,$result_scatter" >> scatter1_core_mapping_epyc.csv
     done
 done
