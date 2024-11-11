@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=bash
-#SBATCH --nodes=2                 # Usa un singolo nodo per il test OpenMP
-#SBATCH --ntasks-per-node=128               # Singolo task MPI
+#SBATCH --nodes=2                 
+#SBATCH --ntasks-per-node=128
 #SBATCH --output=output_epyc.%j.out     
 #SBATCH --error=error_epyc.%j.err   
 #SBATCH --time=02:00:00
@@ -10,7 +10,7 @@
 
 module load openMPI/4.1.6/gnu/14.2.1
 
-#executable
+# Executable
 executable="../src/mandelbrot"
 
 # Output directory
@@ -19,9 +19,10 @@ output_dir="../results/"
 # Output file 
 output_file="${output_dir}strong_scaling_MPI_EPYC.csv"
 
+# Fixed image dimension
 n=1000
 
-# Definisci altri parametri per l'immagine
+# Image parameters
 X_LEFT=-2.0
 Y_LOWER=-2.0
 X_RIGHT=1.0
@@ -29,16 +30,15 @@ Y_UPPER=1.0
 MAX_ITERATIONS=255
 
 
-# Add CSV header
+# CSV header
 echo "Workers,Size,Time(s)" >> ${output_file}
 
-# Define the number of processes to use for MPI parallelism with OpenMP theads 
+# Number of processes to use for MPI parallelism with OpenMP theads 
 THREADS=1
 
-# Esegui il programma per ogni numero di thread OpenMP aumentando linearmente la larghezza
+# Scaling the number of MPI processes
 for processes in {1..256}; do
   processes=$processes
-  # Esegui il programma con un singolo processo MPI (-np 1) e cattura il tempo di esecuzione
   EXEC_TIME=$(mpirun -np ${processes} \
     --map-by core \
     ${executable} \
@@ -49,6 +49,6 @@ done
 # Store the job ID
 job_id=$SLURM_JOB_ID
 
-# Run sacct to retrieve job statistics and print to standard output
+# sacct to retrieve job statistics and print to standard output
 echo "Job Statistics for Job ID $job_id:"
 sacct -j $job_id --format=JobID,JobName,Partition,MaxRSS,MaxVMSize,Elapsed,State
