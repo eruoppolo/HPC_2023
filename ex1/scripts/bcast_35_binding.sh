@@ -12,35 +12,35 @@ echo "Nodi utilizzati: $SLURM_NODELIST"
 echo "Processes,Size,Latency" > bind_bcast3_fixed_core.csv
 echo "Processes,Size,Latency" > bind_bcast5_fixed_core.csv
 
-# Numero di ripetizioni per ottenere una media
+# Repetitions to get an average result
 repetitions=10000
+
+# Fixed message size
+size=4
+#------------- BCAST 3 -----------
+
 echo "PIPELINE"
-# Ciclo esterno per il numero di processori
+
 for processes in {2..256}
 do
-    # Calcola la dimensione come 2 elevato alla potenza corrente
-    size=4
 
-    # Esegui osu_bcast con numero di processi, dimensione fissa e numero di ripetizioni su due nodi
+    # Perform osu_bcast reporting bindings with current processors, fixed message size and fixed number of repetitions
     result_bcast=$(mpirun --map-by core -np $processes --report-bindings --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_bcast_algorithm 3 ../osu_bcast -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
 
     echo "$processes, $size, $result_bcast"
-    # Scrivi i risultati nel file CSV
+    # Write results on CSV
     echo "$processes,$size,$result_bcast" >> bind_bcast3_fixed_core.csv
 
 done
+#------------- BCAST 5 -----------
+# Same for Binary tree
 echo "BINARY TREE"
-# Ciclo esterno per il numero di processori
 for processes in {2..256}
 do
-    # Calcola la dimensione come 2 elevato alla potenza corrente
-    size=4
 
-    # Esegui osu_bcast con numero di processi, dimensione fissa e numero di ripetizioni su due nodi
     result_bcast=$(mpirun --map-by core -np $processes --report-bindings --mca coll_tuned_use_dynamic_rules true --mca coll_tuned_bcast_algorithm 5 ../osu_bcast -m $size -x $repetitions -i $repetitions | tail -n 1 | awk '{print $2}')
 
     echo "$processes, $size, $result_bcast"
-    # Scrivi i risultati nel file CSV
     echo "$processes,$size,$result_bcast" >> bind_bcast5_fixed_core.csv
 
 done
