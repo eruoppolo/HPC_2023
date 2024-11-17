@@ -1,0 +1,1038 @@
+Running with 1 threads, image size 1000x1000
+Image size: 1000x1000
+Number of processes: 1
+Threads per process: 1
+Compute time: 0.149494
+I/O time: 0.386047
+Total time: 0.535577
+Pixels per process: 1000000
+Running with 2 threads, image size 1414x1414
+Image size: 1414x1414
+Number of processes: 1
+Threads per process: 2
+Compute time: 0.276717
+I/O time: 0.027642
+Total time: 0.304394
+Pixels per process: 1999396
+Running with 3 threads, image size 1732x1732
+Image size: 1732x1732
+Number of processes: 1
+Threads per process: 3
+Compute time: 0.232246
+I/O time: 0.005429
+Total time: 0.237723
+Pixels per process: 2999824
+Running with 4 threads, image size 2000x2000
+Image size: 2000x2000
+Number of processes: 1
+Threads per process: 4
+Compute time: 0.382286
+I/O time: 0.007593
+Total time: 0.389930
+Pixels per process: 4000000
+Running with 5 threads, image size 2236x2236
+Image size: 2236x2236
+Number of processes: 1
+Threads per process: 5
+Compute time: 0.401687
+I/O time: 0.579618
+Total time: 0.981360
+Pixels per process: 4999696
+Running with 6 threads, image size 2449x2449
+Image size: 2449x2449
+Number of processes: 1
+Threads per process: 6
+Compute time: 0.360002
+I/O time: 0.301212
+Total time: 0.661267
+Pixels per process: 5997601
+Running with 7 threads, image size 2646x2646
+Image size: 2646x2646
+Number of processes: 1
+Threads per process: 7
+Compute time: 0.424855
+I/O time: 0.097727
+Total time: 0.522626
+Pixels per process: 7001316
+Running with 8 threads, image size 2828x2828
+Image size: 2828x2828
+Number of processes: 1
+Threads per process: 8
+Compute time: 0.433257
+I/O time: 0.023654
+Total time: 0.456970
+Pixels per process: 7997584
+Running with 9 threads, image size 3000x3000
+Image size: 3000x3000
+Number of processes: 1
+Threads per process: 9
+Compute time: 0.399948
+I/O time: 0.008842
+Total time: 0.408845
+Pixels per process: 9000000
+Running with 10 threads, image size 3162x3162
+Image size: 3162x3162
+Number of processes: 1
+Threads per process: 10
+Compute time: 0.440368
+I/O time: 1.175830
+Total time: 1.616254
+Pixels per process: 9998244
+Running with 11 threads, image size 3317x3317
+Image size: 3317x3317
+Number of processes: 1
+Threads per process: 11
+Compute time: 0.439928
+I/O time: 0.115342
+Total time: 0.555312
+Pixels per process: 11002489
+Running with 12 threads, image size 3464x3464
+Image size: 3464x3464
+Number of processes: 1
+Threads per process: 12
+Compute time: 0.426105
+I/O time: 0.024990
+Total time: 0.451153
+Pixels per process: 11999296
+Running with 13 threads, image size 3606x3606
+Image size: 3606x3606
+Number of processes: 1
+Threads per process: 13
+Compute time: 0.446337
+I/O time: 0.009016
+Total time: 0.455405
+Pixels per process: 13003236
+Running with 14 threads, image size 3742x3742
+Image size: 3742x3742
+Number of processes: 1
+Threads per process: 14
+Compute time: 0.446061
+I/O time: 0.147091
+Total time: 0.593193
+Pixels per process: 14002564
+Running with 15 threads, image size 3873x3873
+Image size: 3873x3873
+Number of processes: 1
+Threads per process: 15
+Compute time: 0.435906
+I/O time: 0.150292
+Total time: 0.586248
+Pixels per process: 15000129
+Running with 16 threads, image size 4000x4000
+Image size: 4000x4000
+Number of processes: 1
+Threads per process: 16
+Compute time: 0.447935
+I/O time: 0.027906
+Total time: 0.475881
+Pixels per process: 16000000
+Running with 17 threads, image size 4123x4123
+Image size: 4123x4123
+Number of processes: 1
+Threads per process: 17
+Compute time: 0.450352
+I/O time: 0.012875
+Total time: 0.463282
+Pixels per process: 16999129
+Running with 18 threads, image size 4243x4243
+Image size: 4243x4243
+Number of processes: 1
+Threads per process: 18
+Compute time: 0.441043
+I/O time: 0.209062
+Total time: 0.650147
+Pixels per process: 18003049
+Running with 19 threads, image size 4359x4359
+Image size: 4359x4359
+Number of processes: 1
+Threads per process: 19
+Compute time: 0.453449
+I/O time: 0.287011
+Total time: 0.740516
+Pixels per process: 19000881
+Running with 20 threads, image size 4472x4472
+Image size: 4472x4472
+Number of processes: 1
+Threads per process: 20
+Compute time: 0.452617
+I/O time: 0.030182
+Total time: 0.482838
+Pixels per process: 19998784
+Running with 21 threads, image size 4583x4583
+Image size: 4583x4583
+Number of processes: 1
+Threads per process: 21
+Compute time: 0.444763
+I/O time: 0.231910
+Total time: 0.676715
+Pixels per process: 21003889
+Running with 22 threads, image size 4690x4690
+Image size: 4690x4690
+Number of processes: 1
+Threads per process: 22
+Compute time: 0.451200
+I/O time: 0.367800
+Total time: 0.819040
+Pixels per process: 21996100
+Running with 23 threads, image size 4796x4796
+Image size: 4796x4796
+Number of processes: 1
+Threads per process: 23
+Compute time: 0.454402
+I/O time: 0.031123
+Total time: 0.485564
+Pixels per process: 23001616
+Running with 24 threads, image size 4899x4899
+Image size: 4899x4899
+Number of processes: 1
+Threads per process: 24
+Compute time: 0.447678
+I/O time: 1.079334
+Total time: 1.527067
+Pixels per process: 24000201
+Running with 25 threads, image size 5000x5000
+Image size: 5000x5000
+Number of processes: 1
+Threads per process: 25
+Compute time: 0.455486
+I/O time: 0.473971
+Total time: 0.929520
+Pixels per process: 25000000
+Running with 26 threads, image size 5099x5099
+Image size: 5099x5099
+Number of processes: 1
+Threads per process: 26
+Compute time: 0.456328
+I/O time: 0.033303
+Total time: 0.489686
+Pixels per process: 25999801
+Running with 27 threads, image size 5196x5196
+Image size: 5196x5196
+Number of processes: 1
+Threads per process: 27
+Compute time: 0.448809
+I/O time: 1.624746
+Total time: 2.073609
+Pixels per process: 26998416
+Running with 28 threads, image size 5292x5292
+Image size: 5292x5292
+Number of processes: 1
+Threads per process: 28
+Compute time: 0.457924
+I/O time: 0.326012
+Total time: 0.783976
+Pixels per process: 28005264
+Running with 29 threads, image size 5385x5385
+Image size: 5385x5385
+Number of processes: 1
+Threads per process: 29
+Compute time: 0.459326
+I/O time: 0.035589
+Total time: 0.494955
+Pixels per process: 28998225
+Running with 30 threads, image size 5477x5477
+Image size: 5477x5477
+Number of processes: 1
+Threads per process: 30
+Compute time: 0.451435
+I/O time: 0.578137
+Total time: 1.029623
+Pixels per process: 29997529
+Running with 31 threads, image size 5568x5568
+Image size: 5568x5568
+Number of processes: 1
+Threads per process: 31
+Compute time: 0.460636
+I/O time: 0.397508
+Total time: 0.858185
+Pixels per process: 31002624
+Running with 32 threads, image size 5657x5657
+Image size: 5657x5657
+Number of processes: 1
+Threads per process: 32
+Compute time: 0.459587
+I/O time: 1.240874
+Total time: 1.700498
+Pixels per process: 32001649
+Running with 33 threads, image size 5745x5745
+Image size: 5745x5745
+Number of processes: 1
+Threads per process: 33
+Compute time: 0.451417
+I/O time: 0.429376
+Total time: 0.880835
+Pixels per process: 33005025
+Running with 34 threads, image size 5831x5831
+Image size: 5831x5831
+Number of processes: 1
+Threads per process: 34
+Compute time: 0.459730
+I/O time: 1.680626
+Total time: 2.140410
+Pixels per process: 34000561
+Running with 35 threads, image size 5916x5916
+Image size: 5916x5916
+Number of processes: 1
+Threads per process: 35
+Compute time: 0.460887
+I/O time: 0.654194
+Total time: 1.115124
+Pixels per process: 34999056
+Running with 36 threads, image size 6000x6000
+Image size: 6000x6000
+Number of processes: 1
+Threads per process: 36
+Compute time: 0.454130
+I/O time: 1.344910
+Total time: 1.799082
+Pixels per process: 36000000
+Running with 37 threads, image size 6083x6083
+Image size: 6083x6083
+Number of processes: 1
+Threads per process: 37
+Compute time: 0.457837
+I/O time: 0.774232
+Total time: 1.232111
+Pixels per process: 37002889
+Running with 38 threads, image size 6164x6164
+Image size: 6164x6164
+Number of processes: 1
+Threads per process: 38
+Compute time: 0.460045
+I/O time: 0.456319
+Total time: 0.916417
+Pixels per process: 37994896
+Running with 39 threads, image size 6245x6245
+Image size: 6245x6245
+Number of processes: 1
+Threads per process: 39
+Compute time: 0.455376
+I/O time: 0.039402
+Total time: 0.494835
+Pixels per process: 39000025
+Running with 40 threads, image size 6325x6325
+Image size: 6325x6325
+Number of processes: 1
+Threads per process: 40
+Compute time: 0.457787
+I/O time: 1.410426
+Total time: 1.868252
+Pixels per process: 40005625
+Running with 41 threads, image size 6403x6403
+Image size: 6403x6403
+Number of processes: 1
+Threads per process: 41
+Compute time: 0.460054
+I/O time: 0.550205
+Total time: 1.010316
+Pixels per process: 40998409
+Running with 42 threads, image size 6481x6481
+Image size: 6481x6481
+Number of processes: 1
+Threads per process: 42
+Compute time: 0.456585
+I/O time: 0.558383
+Total time: 1.015009
+Pixels per process: 42003361
+Running with 43 threads, image size 6557x6557
+Image size: 6557x6557
+Number of processes: 1
+Threads per process: 43
+Compute time: 0.460425
+I/O time: 0.625872
+Total time: 1.086351
+Pixels per process: 42994249
+Running with 44 threads, image size 6633x6633
+Image size: 6633x6633
+Number of processes: 1
+Threads per process: 44
+Compute time: 0.460740
+I/O time: 0.719854
+Total time: 1.180649
+Pixels per process: 43996689
+Running with 45 threads, image size 6708x6708
+Image size: 6708x6708
+Number of processes: 1
+Threads per process: 45
+Compute time: 0.457581
+I/O time: 0.042814
+Total time: 0.500436
+Pixels per process: 44997264
+Running with 46 threads, image size 6782x6782
+Image size: 6782x6782
+Number of processes: 1
+Threads per process: 46
+Compute time: 0.462264
+I/O time: 0.687654
+Total time: 1.149958
+Pixels per process: 45995524
+Running with 47 threads, image size 6856x6856
+Image size: 6856x6856
+Number of processes: 1
+Threads per process: 47
+Compute time: 0.463627
+I/O time: 0.791220
+Total time: 1.254889
+Pixels per process: 47004736
+Running with 48 threads, image size 6928x6928
+Image size: 6928x6928
+Number of processes: 1
+Threads per process: 48
+Compute time: 0.459839
+I/O time: 0.928428
+Total time: 1.388308
+Pixels per process: 47997184
+Running with 49 threads, image size 7000x7000
+Image size: 7000x7000
+Number of processes: 1
+Threads per process: 49
+Compute time: 0.463109
+I/O time: 2.199169
+Total time: 2.662336
+Pixels per process: 49000000
+Running with 50 threads, image size 7071x7071
+Image size: 7071x7071
+Number of processes: 1
+Threads per process: 50
+Compute time: 0.463069
+I/O time: 0.982549
+Total time: 1.445672
+Pixels per process: 49999041
+Running with 51 threads, image size 7141x7141
+Image size: 7141x7141
+Number of processes: 1
+Threads per process: 51
+Compute time: 0.460395
+I/O time: 0.780086
+Total time: 1.240522
+Pixels per process: 50993881
+Running with 52 threads, image size 7211x7211
+Image size: 7211x7211
+Number of processes: 1
+Threads per process: 52
+Compute time: 0.460632
+I/O time: 1.441943
+Total time: 1.902613
+Pixels per process: 51998521
+Running with 53 threads, image size 7280x7280
+Image size: 7280x7280
+Number of processes: 1
+Threads per process: 53
+Compute time: 0.463531
+I/O time: 0.741380
+Total time: 1.204954
+Pixels per process: 52998400
+Running with 54 threads, image size 7348x7348
+Image size: 7348x7348
+Number of processes: 1
+Threads per process: 54
+Compute time: 0.461358
+I/O time: 0.913975
+Total time: 1.375386
+Pixels per process: 53993104
+Running with 55 threads, image size 7416x7416
+Image size: 7416x7416
+Number of processes: 1
+Threads per process: 55
+Compute time: 0.464743
+I/O time: 1.433355
+Total time: 1.898150
+Pixels per process: 54997056
+Running with 56 threads, image size 7483x7483
+Image size: 7483x7483
+Number of processes: 1
+Threads per process: 56
+Compute time: 0.465954
+I/O time: 1.166573
+Total time: 1.632567
+Pixels per process: 55995289
+Running with 57 threads, image size 7550x7550
+Image size: 7550x7550
+Number of processes: 1
+Threads per process: 57
+Compute time: 0.460963
+I/O time: 0.880899
+Total time: 1.341916
+Pixels per process: 57002500
+Running with 58 threads, image size 7616x7616
+Image size: 7616x7616
+Number of processes: 1
+Threads per process: 58
+Compute time: 0.463061
+I/O time: 1.331597
+Total time: 1.794700
+Pixels per process: 58003456
+Running with 59 threads, image size 7681x7681
+Image size: 7681x7681
+Number of processes: 1
+Threads per process: 59
+Compute time: 0.463982
+I/O time: 2.637669
+Total time: 3.101691
+Pixels per process: 58997761
+Running with 60 threads, image size 7746x7746
+Image size: 7746x7746
+Number of processes: 1
+Threads per process: 60
+Compute time: 0.462281
+I/O time: 2.146910
+Total time: 2.609249
+Pixels per process: 60000516
+Running with 61 threads, image size 7810x7810
+Image size: 7810x7810
+Number of processes: 1
+Threads per process: 61
+Compute time: 0.464294
+I/O time: 0.858156
+Total time: 1.322493
+Pixels per process: 60996100
+Running with 62 threads, image size 7874x7874
+Image size: 7874x7874
+Number of processes: 1
+Threads per process: 62
+Compute time: 0.465147
+I/O time: 1.200322
+Total time: 1.665507
+Pixels per process: 61999876
+Running with 63 threads, image size 7937x7937
+Image size: 7937x7937
+Number of processes: 1
+Threads per process: 63
+Compute time: 0.461864
+I/O time: 0.823889
+Total time: 1.285808
+Pixels per process: 62995969
+Running with 64 threads, image size 8000x8000
+Image size: 8000x8000
+Number of processes: 1
+Threads per process: 64
+Compute time: 0.464896
+I/O time: 2.196339
+Total time: 2.661288
+Pixels per process: 64000000
+Running with 65 threads, image size 8062x8062
+Image size: 8062x8062
+Number of processes: 1
+Threads per process: 65
+Compute time: 0.466026
+I/O time: 2.235889
+Total time: 2.701969
+Pixels per process: 64995844
+Running with 66 threads, image size 8124x8124
+Image size: 8124x8124
+Number of processes: 1
+Threads per process: 66
+Compute time: 0.463916
+I/O time: 2.728751
+Total time: 3.192710
+Pixels per process: 65999376
+Running with 67 threads, image size 8185x8185
+Image size: 8185x8185
+Number of processes: 1
+Threads per process: 67
+Compute time: 0.467915
+I/O time: 2.380487
+Total time: 2.848464
+Pixels per process: 66994225
+Running with 68 threads, image size 8246x8246
+Image size: 8246x8246
+Number of processes: 1
+Threads per process: 68
+Compute time: 0.465478
+I/O time: 1.863633
+Total time: 2.329173
+Pixels per process: 67996516
+Running with 69 threads, image size 8307x8307
+Image size: 8307x8307
+Number of processes: 1
+Threads per process: 69
+Compute time: 0.464559
+I/O time: 2.661708
+Total time: 3.126329
+Pixels per process: 69006249
+Running with 70 threads, image size 8367x8367
+Image size: 8367x8367
+Number of processes: 1
+Threads per process: 70
+Compute time: 0.469561
+I/O time: 1.616019
+Total time: 2.085621
+Pixels per process: 70006689
+Running with 71 threads, image size 8426x8426
+Image size: 8426x8426
+Number of processes: 1
+Threads per process: 71
+Compute time: 0.465339
+I/O time: 2.169370
+Total time: 2.634747
+Pixels per process: 70997476
+Running with 72 threads, image size 8485x8485
+Image size: 8485x8485
+Number of processes: 1
+Threads per process: 72
+Compute time: 0.465490
+I/O time: 2.076312
+Total time: 2.541861
+Pixels per process: 71995225
+Running with 73 threads, image size 8544x8544
+Image size: 8544x8544
+Number of processes: 1
+Threads per process: 73
+Compute time: 0.462092
+I/O time: 2.310535
+Total time: 2.772672
+Pixels per process: 72999936
+Running with 74 threads, image size 8602x8602
+Image size: 8602x8602
+Number of processes: 1
+Threads per process: 74
+Compute time: 0.467530
+I/O time: 2.332334
+Total time: 2.799905
+Pixels per process: 73994404
+Running with 75 threads, image size 8660x8660
+Image size: 8660x8660
+Number of processes: 1
+Threads per process: 75
+Compute time: 0.465229
+I/O time: 2.076052
+Total time: 2.541320
+Pixels per process: 74995600
+Running with 76 threads, image size 8718x8718
+Image size: 8718x8718
+Number of processes: 1
+Threads per process: 76
+Compute time: 0.468299
+I/O time: 1.997247
+Total time: 2.465603
+Pixels per process: 76003524
+Running with 77 threads, image size 8775x8775
+Image size: 8775x8775
+Number of processes: 1
+Threads per process: 77
+Compute time: 0.469376
+I/O time: 2.159413
+Total time: 2.628858
+Pixels per process: 77000625
+Running with 78 threads, image size 8832x8832
+Image size: 8832x8832
+Number of processes: 1
+Threads per process: 78
+Compute time: 0.464752
+I/O time: 2.009048
+Total time: 2.473853
+Pixels per process: 78004224
+Running with 79 threads, image size 8888x8888
+Image size: 8888x8888
+Number of processes: 1
+Threads per process: 79
+Compute time: 0.470449
+I/O time: 1.482445
+Total time: 1.952945
+Pixels per process: 78996544
+Running with 80 threads, image size 8944x8944
+Image size: 8944x8944
+Number of processes: 1
+Threads per process: 80
+Compute time: 0.466587
+I/O time: 1.795712
+Total time: 2.262360
+Pixels per process: 79995136
+Running with 81 threads, image size 9000x9000
+Image size: 9000x9000
+Number of processes: 1
+Threads per process: 81
+Compute time: 0.465511
+I/O time: 1.519017
+Total time: 1.984569
+Pixels per process: 81000000
+Running with 82 threads, image size 9055x9055
+Image size: 9055x9055
+Number of processes: 1
+Threads per process: 82
+Compute time: 0.469274
+I/O time: 1.719402
+Total time: 2.188731
+Pixels per process: 81993025
+Running with 83 threads, image size 9110x9110
+Image size: 9110x9110
+Number of processes: 1
+Threads per process: 83
+Compute time: 0.466791
+I/O time: 1.707448
+Total time: 2.174306
+Pixels per process: 82992100
+Running with 84 threads, image size 9165x9165
+Image size: 9165x9165
+Number of processes: 1
+Threads per process: 84
+Compute time: 0.464889
+I/O time: 1.608922
+Total time: 2.073868
+Pixels per process: 83997225
+Running with 85 threads, image size 9220x9220
+Image size: 9220x9220
+Number of processes: 1
+Threads per process: 85
+Compute time: 0.470256
+I/O time: 1.538370
+Total time: 2.008670
+Pixels per process: 85008400
+Running with 86 threads, image size 9274x9274
+Image size: 9274x9274
+Number of processes: 1
+Threads per process: 86
+Compute time: 0.468372
+I/O time: 1.612789
+Total time: 2.081202
+Pixels per process: 86007076
+Running with 87 threads, image size 9327x9327
+Image size: 9327x9327
+Number of processes: 1
+Threads per process: 87
+Compute time: 0.465544
+I/O time: 1.841051
+Total time: 2.306638
+Pixels per process: 86992929
+Running with 88 threads, image size 9381x9381
+Image size: 9381x9381
+Number of processes: 1
+Threads per process: 88
+Compute time: 0.469929
+I/O time: 1.656514
+Total time: 2.126486
+Pixels per process: 88003161
+Running with 89 threads, image size 9434x9434
+Image size: 9434x9434
+Number of processes: 1
+Threads per process: 89
+Compute time: 0.470382
+I/O time: 2.186088
+Total time: 2.656522
+Pixels per process: 89000356
+Running with 90 threads, image size 9487x9487
+Image size: 9487x9487
+Number of processes: 1
+Threads per process: 90
+Compute time: 0.467950
+I/O time: 1.428980
+Total time: 1.896973
+Pixels per process: 90003169
+Running with 91 threads, image size 9539x9539
+Image size: 9539x9539
+Number of processes: 1
+Threads per process: 91
+Compute time: 0.467521
+I/O time: 1.553377
+Total time: 2.020938
+Pixels per process: 90992521
+Running with 92 threads, image size 9592x9592
+Image size: 9592x9592
+Number of processes: 1
+Threads per process: 92
+Compute time: 0.468847
+I/O time: 1.663460
+Total time: 2.132348
+Pixels per process: 92006464
+Running with 93 threads, image size 9644x9644
+Image size: 9644x9644
+Number of processes: 1
+Threads per process: 93
+Compute time: 0.466764
+I/O time: 1.437253
+Total time: 1.904060
+Pixels per process: 93006736
+Running with 94 threads, image size 9695x9695
+Image size: 9695x9695
+Number of processes: 1
+Threads per process: 94
+Compute time: 0.471125
+I/O time: 1.759327
+Total time: 2.230494
+Pixels per process: 93993025
+Running with 95 threads, image size 9747x9747
+Image size: 9747x9747
+Number of processes: 1
+Threads per process: 95
+Compute time: 0.469425
+I/O time: 1.527906
+Total time: 1.997370
+Pixels per process: 95004009
+Running with 96 threads, image size 9798x9798
+Image size: 9798x9798
+Number of processes: 1
+Threads per process: 96
+Compute time: 0.465972
+I/O time: 1.669052
+Total time: 2.135069
+Pixels per process: 96000804
+Running with 97 threads, image size 9849x9849
+Image size: 9849x9849
+Number of processes: 1
+Threads per process: 97
+Compute time: 0.459684
+I/O time: 1.536775
+Total time: 1.996495
+Pixels per process: 97002801
+Running with 98 threads, image size 9899x9899
+Image size: 9899x9899
+Number of processes: 1
+Threads per process: 98
+Compute time: 0.455599
+I/O time: 1.693995
+Total time: 2.149643
+Pixels per process: 97990201
+Running with 99 threads, image size 9950x9950
+Image size: 9950x9950
+Number of processes: 1
+Threads per process: 99
+Compute time: 0.453161
+I/O time: 1.466079
+Total time: 1.919279
+Pixels per process: 99002500
+Running with 100 threads, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 1
+Threads per process: 100
+Compute time: 0.455404
+I/O time: 1.804706
+Total time: 2.260163
+Pixels per process: 100000000
+Running with 101 threads, image size 10050x10050
+Image size: 10050x10050
+Number of processes: 1
+Threads per process: 101
+Compute time: 0.454848
+I/O time: 1.455137
+Total time: 1.910028
+Pixels per process: 101002500
+Running with 102 threads, image size 10100x10100
+Image size: 10100x10100
+Number of processes: 1
+Threads per process: 102
+Compute time: 0.453853
+I/O time: 1.776979
+Total time: 2.230885
+Pixels per process: 102010000
+Running with 103 threads, image size 10149x10149
+Image size: 10149x10149
+Number of processes: 1
+Threads per process: 103
+Compute time: 0.458344
+I/O time: 1.580151
+Total time: 2.038553
+Pixels per process: 103002201
+Running with 104 threads, image size 10198x10198
+Image size: 10198x10198
+Number of processes: 1
+Threads per process: 104
+Compute time: 0.457028
+I/O time: 1.628051
+Total time: 2.085133
+Pixels per process: 103999204
+Running with 105 threads, image size 10247x10247
+Image size: 10247x10247
+Number of processes: 1
+Threads per process: 105
+Compute time: 0.454621
+I/O time: 1.554083
+Total time: 2.008746
+Pixels per process: 105001009
+Running with 106 threads, image size 10296x10296
+Image size: 10296x10296
+Number of processes: 1
+Threads per process: 106
+Compute time: 0.457406
+I/O time: 1.844516
+Total time: 2.301997
+Pixels per process: 106007616
+Running with 107 threads, image size 10344x10344
+Image size: 10344x10344
+Number of processes: 1
+Threads per process: 107
+Compute time: 0.456773
+I/O time: 1.558513
+Total time: 2.015344
+Pixels per process: 106998336
+Running with 108 threads, image size 10392x10392
+Image size: 10392x10392
+Number of processes: 1
+Threads per process: 108
+Compute time: 0.453528
+I/O time: 1.532244
+Total time: 1.985815
+Pixels per process: 107993664
+Running with 109 threads, image size 10440x10440
+Image size: 10440x10440
+Number of processes: 1
+Threads per process: 109
+Compute time: 0.458631
+I/O time: 1.619350
+Total time: 2.078023
+Pixels per process: 108993600
+Running with 110 threads, image size 10488x10488
+Image size: 10488x10488
+Number of processes: 1
+Threads per process: 110
+Compute time: 0.458605
+I/O time: 1.550532
+Total time: 2.009179
+Pixels per process: 109998144
+Running with 111 threads, image size 10536x10536
+Image size: 10536x10536
+Number of processes: 1
+Threads per process: 111
+Compute time: 0.454918
+I/O time: 1.630566
+Total time: 2.085538
+Pixels per process: 111007296
+Running with 112 threads, image size 10583x10583
+Image size: 10583x10583
+Number of processes: 1
+Threads per process: 112
+Compute time: 0.458995
+I/O time: 1.628889
+Total time: 2.087929
+Pixels per process: 111999889
+Running with 113 threads, image size 10630x10630
+Image size: 10630x10630
+Number of processes: 1
+Threads per process: 113
+Compute time: 0.459008
+I/O time: 1.672076
+Total time: 2.131139
+Pixels per process: 112996900
+Running with 114 threads, image size 10677x10677
+Image size: 10677x10677
+Number of processes: 1
+Threads per process: 114
+Compute time: 0.454549
+I/O time: 1.884980
+Total time: 2.339580
+Pixels per process: 113998329
+Running with 115 threads, image size 10724x10724
+Image size: 10724x10724
+Number of processes: 1
+Threads per process: 115
+Compute time: 0.458912
+I/O time: 1.705734
+Total time: 2.164701
+Pixels per process: 115004176
+Running with 116 threads, image size 10770x10770
+Image size: 10770x10770
+Number of processes: 1
+Threads per process: 116
+Compute time: 0.460078
+I/O time: 1.644557
+Total time: 2.104694
+Pixels per process: 115992900
+Running with 117 threads, image size 10817x10817
+Image size: 10817x10817
+Number of processes: 1
+Threads per process: 117
+Compute time: 0.455228
+I/O time: 1.736631
+Total time: 2.191910
+Pixels per process: 117007489
+Running with 118 threads, image size 10863x10863
+Image size: 10863x10863
+Number of processes: 1
+Threads per process: 118
+Compute time: 0.459066
+I/O time: 1.652857
+Total time: 2.111978
+Pixels per process: 118004769
+Running with 119 threads, image size 10909x10909
+Image size: 10909x10909
+Number of processes: 1
+Threads per process: 119
+Compute time: 0.459838
+I/O time: 1.996627
+Total time: 2.456508
+Pixels per process: 119006281
+Running with 120 threads, image size 10954x10954
+Image size: 10954x10954
+Number of processes: 1
+Threads per process: 120
+Compute time: 0.456502
+I/O time: 1.739919
+Total time: 2.196460
+Pixels per process: 119990116
+Running with 121 threads, image size 11000x11000
+Image size: 11000x11000
+Number of processes: 1
+Threads per process: 121
+Compute time: 0.457391
+I/O time: 1.650901
+Total time: 2.108336
+Pixels per process: 121000000
+Running with 122 threads, image size 11045x11045
+Image size: 11045x11045
+Number of processes: 1
+Threads per process: 122
+Compute time: 0.459904
+I/O time: 1.663246
+Total time: 2.123199
+Pixels per process: 121992025
+Running with 123 threads, image size 11091x11091
+Image size: 11091x11091
+Number of processes: 1
+Threads per process: 123
+Compute time: 0.454792
+I/O time: 2.166912
+Total time: 2.621759
+Pixels per process: 123010281
+Running with 124 threads, image size 11136x11136
+Image size: 11136x11136
+Number of processes: 1
+Threads per process: 124
+Compute time: 0.461214
+I/O time: 2.003051
+Total time: 2.464307
+Pixels per process: 124010496
+Running with 125 threads, image size 11180x11180
+Image size: 11180x11180
+Number of processes: 1
+Threads per process: 125
+Compute time: 0.459158
+I/O time: 1.912046
+Total time: 2.371253
+Pixels per process: 124992400
+Running with 126 threads, image size 11225x11225
+Image size: 11225x11225
+Number of processes: 1
+Threads per process: 126
+Compute time: 0.455979
+I/O time: 1.716703
+Total time: 2.172732
+Pixels per process: 126000625
+Running with 127 threads, image size 11269x11269
+Image size: 11269x11269
+Number of processes: 1
+Threads per process: 127
+Compute time: 0.458506
+I/O time: 1.644936
+Total time: 2.103486
+Pixels per process: 126990361
+Running with 128 threads, image size 11314x11314
+Image size: 11314x11314
+Number of processes: 1
+Threads per process: 128
+Compute time: 0.898881
+I/O time: 1.732971
+Total time: 2.631894
+Pixels per process: 128006596
+
+Job Statistics for Job ID 891507:
+JobID           JobName  Partition     MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- 
+891507       mandelbro+       EPYC                         00:09:02    RUNNING 
+891507.batch      batch                                    00:09:02    RUNNING 
+891507.exte+     extern                                    00:09:02    RUNNING 
+
+Scaling Results Summary:
+=========================
+Results saved in: ../results/weak_scaling_OMP_EPYC.csv
+Number of tests completed: 128
+Largest image size: 11314x11314
+Maximum number of threads: 128

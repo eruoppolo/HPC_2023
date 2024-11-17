@@ -1,6 +1,0 @@
-Job Statistics for Job ID 883056:
-JobID           JobName  Partition     MaxRSS  MaxVMSize    Elapsed      State 
------------- ---------- ---------- ---------- ---------- ---------- ---------- 
-883056             bash       EPYC                         00:00:45    RUNNING 
-883056.batch      batch                                    00:00:45    RUNNING 
-883056.exte+     extern                                    00:00:45    RUNNING 

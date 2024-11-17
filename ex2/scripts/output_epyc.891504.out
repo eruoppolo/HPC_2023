@@ -1,0 +1,2318 @@
+Running with 1 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 1
+Threads per process: 1
+Compute time: 14.061630
+I/O time: 0.105346
+Total time: 14.167012
+Pixels per process: 100000000
+Running with 2 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 2
+Threads per process: 1
+Compute time: 12.612879
+I/O time: 1.494180
+Total time: 14.107984
+Pixels per process: 50000000
+Running with 3 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 3
+Threads per process: 1
+Compute time: 6.971878
+I/O time: 1.402322
+Total time: 8.377476
+Pixels per process: 33333333
+Running with 4 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 4
+Threads per process: 1
+Compute time: 9.026802
+I/O time: 1.848185
+Total time: 10.875027
+Pixels per process: 25000000
+Running with 5 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 5
+Threads per process: 1
+Compute time: 7.599822
+I/O time: 1.651039
+Total time: 9.250901
+Pixels per process: 20000000
+Running with 6 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 6
+Threads per process: 1
+Compute time: 5.709475
+I/O time: 1.613967
+Total time: 7.323484
+Pixels per process: 16666666
+Running with 7 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 7
+Threads per process: 1
+Compute time: 5.834298
+I/O time: 2.209125
+Total time: 8.043473
+Pixels per process: 14285714
+Running with 8 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 8
+Threads per process: 1
+Compute time: 5.215440
+I/O time: 3.706931
+Total time: 8.922401
+Pixels per process: 12500000
+Running with 9 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 9
+Threads per process: 1
+Compute time: 4.269771
+I/O time: 2.082411
+Total time: 6.352260
+Pixels per process: 11111111
+Running with 10 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 10
+Threads per process: 1
+Compute time: 4.239873
+I/O time: 1.693114
+Total time: 5.933157
+Pixels per process: 10000000
+Running with 11 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 11
+Threads per process: 1
+Compute time: 3.889758
+I/O time: 2.237390
+Total time: 6.127426
+Pixels per process: 9090909
+Running with 12 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 12
+Threads per process: 1
+Compute time: 3.423495
+I/O time: 1.904123
+Total time: 5.330281
+Pixels per process: 8333333
+Running with 13 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 13
+Threads per process: 1
+Compute time: 3.272711
+I/O time: 2.065408
+Total time: 5.339256
+Pixels per process: 7692307
+Running with 14 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 14
+Threads per process: 1
+Compute time: 3.048809
+I/O time: 2.083543
+Total time: 5.132737
+Pixels per process: 7142857
+Running with 15 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 15
+Threads per process: 1
+Compute time: 2.770780
+I/O time: 2.555906
+Total time: 5.327817
+Pixels per process: 6666666
+Running with 16 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 16
+Threads per process: 1
+Compute time: 2.683902
+I/O time: 1.902207
+Total time: 4.586158
+Pixels per process: 6250000
+Running with 17 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 17
+Threads per process: 1
+Compute time: 2.526801
+I/O time: 2.513551
+Total time: 5.040621
+Pixels per process: 5882352
+Running with 18 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 18
+Threads per process: 1
+Compute time: 2.375172
+I/O time: 2.484771
+Total time: 4.860000
+Pixels per process: 5555555
+Running with 19 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 19
+Threads per process: 1
+Compute time: 2.318680
+I/O time: 3.424677
+Total time: 5.743398
+Pixels per process: 5263157
+Running with 20 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 20
+Threads per process: 1
+Compute time: 2.200473
+I/O time: 3.265519
+Total time: 5.466316
+Pixels per process: 5000000
+Running with 21 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 21
+Threads per process: 1
+Compute time: 2.051250
+I/O time: 3.170610
+Total time: 5.222060
+Pixels per process: 4761904
+Running with 22 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 22
+Threads per process: 1
+Compute time: 2.006694
+I/O time: 2.257244
+Total time: 4.264030
+Pixels per process: 4545454
+Running with 23 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 23
+Threads per process: 1
+Compute time: 1.927161
+I/O time: 3.244842
+Total time: 5.173406
+Pixels per process: 4347826
+Running with 24 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 24
+Threads per process: 1
+Compute time: 1.803909
+I/O time: 3.911168
+Total time: 5.718180
+Pixels per process: 4166666
+Running with 25 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 25
+Threads per process: 1
+Compute time: 1.738785
+I/O time: 2.154246
+Total time: 3.896263
+Pixels per process: 4000000
+Running with 26 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 26
+Threads per process: 1
+Compute time: 1.669540
+I/O time: 3.205500
+Total time: 4.875373
+Pixels per process: 3846153
+Running with 27 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 27
+Threads per process: 1
+Compute time: 1.581986
+I/O time: 2.107875
+Total time: 3.690304
+Pixels per process: 3703703
+Running with 28 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 28
+Threads per process: 1
+Compute time: 1.557711
+I/O time: 2.321099
+Total time: 3.879157
+Pixels per process: 3571428
+Running with 29 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 29
+Threads per process: 1
+Compute time: 1.505105
+I/O time: 2.595501
+Total time: 4.101004
+Pixels per process: 3448275
+Running with 30 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 30
+Threads per process: 1
+Compute time: 1.429018
+I/O time: 3.793433
+Total time: 5.225458
+Pixels per process: 3333333
+Running with 31 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 31
+Threads per process: 1
+Compute time: 1.411544
+I/O time: 3.075409
+Total time: 4.487385
+Pixels per process: 3225806
+Running with 32 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 32
+Threads per process: 1
+Compute time: 1.366866
+I/O time: 2.891419
+Total time: 4.258409
+Pixels per process: 3125000
+Running with 33 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 33
+Threads per process: 1
+Compute time: 1.311042
+I/O time: 2.940913
+Total time: 4.252039
+Pixels per process: 3030303
+Running with 34 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 34
+Threads per process: 1
+Compute time: 1.293021
+I/O time: 2.382778
+Total time: 3.675946
+Pixels per process: 2941176
+Running with 35 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 35
+Threads per process: 1
+Compute time: 1.256791
+I/O time: 3.451649
+Total time: 4.708883
+Pixels per process: 2857142
+Running with 36 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 36
+Threads per process: 1
+Compute time: 1.206247
+I/O time: 3.071303
+Total time: 4.277656
+Pixels per process: 2777777
+Running with 37 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 37
+Threads per process: 1
+Compute time: 1.186155
+I/O time: 3.754825
+Total time: 4.941152
+Pixels per process: 2702702
+Running with 38 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 38
+Threads per process: 1
+Compute time: 1.155261
+I/O time: 2.922036
+Total time: 4.077712
+Pixels per process: 2631578
+Running with 39 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 39
+Threads per process: 1
+Compute time: 1.111214
+I/O time: 3.249532
+Total time: 4.361178
+Pixels per process: 2564102
+Running with 40 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 40
+Threads per process: 1
+Compute time: 1.099524
+I/O time: 3.180415
+Total time: 4.280349
+Pixels per process: 2500000
+Running with 41 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 41
+Threads per process: 1
+Compute time: 1.073107
+I/O time: 3.696151
+Total time: 4.769677
+Pixels per process: 2439024
+Running with 42 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 42
+Threads per process: 1
+Compute time: 1.036160
+I/O time: 3.618093
+Total time: 4.654676
+Pixels per process: 2380952
+Running with 43 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 43
+Threads per process: 1
+Compute time: 1.023835
+I/O time: 3.737058
+Total time: 4.761017
+Pixels per process: 2325581
+Running with 44 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 44
+Threads per process: 1
+Compute time: 0.999831
+I/O time: 3.162775
+Total time: 4.163076
+Pixels per process: 2272727
+Running with 45 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 45
+Threads per process: 1
+Compute time: 0.969872
+I/O time: 3.681361
+Total time: 4.651611
+Pixels per process: 2222222
+Running with 46 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 46
+Threads per process: 1
+Compute time: 0.959140
+I/O time: 2.931427
+Total time: 3.891028
+Pixels per process: 2173913
+Running with 47 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 47
+Threads per process: 1
+Compute time: 0.941888
+I/O time: 3.486087
+Total time: 4.428348
+Pixels per process: 2127659
+Running with 48 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 48
+Threads per process: 1
+Compute time: 0.913062
+I/O time: 3.072005
+Total time: 3.985460
+Pixels per process: 2083333
+Running with 49 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 49
+Threads per process: 1
+Compute time: 0.899860
+I/O time: 3.365058
+Total time: 4.268234
+Pixels per process: 2040816
+Running with 50 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 50
+Threads per process: 1
+Compute time: 0.883380
+I/O time: 3.509333
+Total time: 4.392917
+Pixels per process: 2000000
+Running with 51 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 51
+Threads per process: 1
+Compute time: 0.859393
+I/O time: 3.159868
+Total time: 4.022554
+Pixels per process: 1960784
+Running with 52 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 52
+Threads per process: 1
+Compute time: 0.847594
+I/O time: 2.852211
+Total time: 3.703242
+Pixels per process: 1923076
+Running with 53 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 53
+Threads per process: 1
+Compute time: 0.834190
+I/O time: 3.247283
+Total time: 4.084565
+Pixels per process: 1886792
+Running with 54 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 54
+Threads per process: 1
+Compute time: 0.811818
+I/O time: 0.771101
+Total time: 1.585960
+Pixels per process: 1851851
+Running with 55 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 55
+Threads per process: 1
+Compute time: 0.805734
+I/O time: 3.064505
+Total time: 3.871429
+Pixels per process: 1818181
+Running with 56 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 56
+Threads per process: 1
+Compute time: 0.788363
+I/O time: 1.523878
+Total time: 2.312726
+Pixels per process: 1785714
+Running with 57 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 57
+Threads per process: 1
+Compute time: 0.771300
+I/O time: 3.370784
+Total time: 4.145324
+Pixels per process: 1754385
+Running with 58 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 58
+Threads per process: 1
+Compute time: 0.760813
+I/O time: 3.205357
+Total time: 3.969796
+Pixels per process: 1724137
+Running with 59 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 59
+Threads per process: 1
+Compute time: 0.747521
+I/O time: 3.249883
+Total time: 4.000482
+Pixels per process: 1694915
+Running with 60 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 60
+Threads per process: 1
+Compute time: 0.735897
+I/O time: 4.280846
+Total time: 5.020236
+Pixels per process: 1666666
+Running with 61 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 61
+Threads per process: 1
+Compute time: 0.725332
+I/O time: 3.787727
+Total time: 4.516202
+Pixels per process: 1639344
+Running with 62 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 62
+Threads per process: 1
+Compute time: 0.712205
+I/O time: 4.239411
+Total time: 4.952095
+Pixels per process: 1612903
+Running with 63 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 63
+Threads per process: 1
+Compute time: 0.700540
+I/O time: 4.282253
+Total time: 4.985817
+Pixels per process: 1587301
+Running with 64 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 64
+Threads per process: 1
+Compute time: 0.690475
+I/O time: 3.980838
+Total time: 4.671496
+Pixels per process: 1562500
+Running with 65 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 65
+Threads per process: 1
+Compute time: 0.681543
+I/O time: 4.839997
+Total time: 5.521928
+Pixels per process: 1538461
+Running with 66 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 66
+Threads per process: 1
+Compute time: 0.665982
+I/O time: 4.526198
+Total time: 5.192395
+Pixels per process: 1515151
+Running with 67 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 67
+Threads per process: 1
+Compute time: 0.660671
+I/O time: 3.715390
+Total time: 4.376307
+Pixels per process: 1492537
+Running with 68 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 68
+Threads per process: 1
+Compute time: 0.651666
+I/O time: 3.982191
+Total time: 4.634047
+Pixels per process: 1470588
+Running with 69 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 69
+Threads per process: 1
+Compute time: 0.638971
+I/O time: 3.473592
+Total time: 4.112888
+Pixels per process: 1449275
+Running with 70 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 70
+Threads per process: 1
+Compute time: 0.634561
+I/O time: 4.299836
+Total time: 4.934627
+Pixels per process: 1428571
+Running with 71 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 71
+Threads per process: 1
+Compute time: 0.624900
+I/O time: 3.443493
+Total time: 4.068645
+Pixels per process: 1408450
+Running with 72 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 72
+Threads per process: 1
+Compute time: 0.612787
+I/O time: 1.192416
+Total time: 1.805410
+Pixels per process: 1388888
+Running with 73 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 73
+Threads per process: 1
+Compute time: 0.608368
+I/O time: 0.147148
+Total time: 0.755458
+Pixels per process: 1369863
+Running with 74 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 74
+Threads per process: 1
+Compute time: 0.599039
+I/O time: 3.815547
+Total time: 4.414907
+Pixels per process: 1351351
+Running with 75 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 75
+Threads per process: 1
+Compute time: 0.587308
+I/O time: 3.988061
+Total time: 4.575568
+Pixels per process: 1333333
+Running with 76 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 76
+Threads per process: 1
+Compute time: 0.581732
+I/O time: 1.199232
+Total time: 1.781249
+Pixels per process: 1315789
+Running with 77 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 77
+Threads per process: 1
+Compute time: 0.576541
+I/O time: 1.125023
+Total time: 1.701918
+Pixels per process: 1298701
+Running with 78 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 78
+Threads per process: 1
+Compute time: 0.565024
+I/O time: 4.168339
+Total time: 4.733646
+Pixels per process: 1282051
+Running with 79 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 79
+Threads per process: 1
+Compute time: 0.560502
+I/O time: 4.449714
+Total time: 5.010486
+Pixels per process: 1265822
+Running with 80 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 80
+Threads per process: 1
+Compute time: 0.555698
+I/O time: 0.975802
+Total time: 1.531822
+Pixels per process: 1250000
+Running with 81 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 81
+Threads per process: 1
+Compute time: 0.544653
+I/O time: 3.344665
+Total time: 3.889603
+Pixels per process: 1234567
+Running with 82 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 82
+Threads per process: 1
+Compute time: 0.542989
+I/O time: 3.258777
+Total time: 3.802119
+Pixels per process: 1219512
+Running with 83 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 83
+Threads per process: 1
+Compute time: 0.532903
+I/O time: 0.844504
+Total time: 1.377814
+Pixels per process: 1204819
+Running with 84 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 84
+Threads per process: 1
+Compute time: 0.525350
+I/O time: 4.655117
+Total time: 5.180752
+Pixels per process: 1190476
+Running with 85 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 85
+Threads per process: 1
+Compute time: 0.520866
+I/O time: 3.531335
+Total time: 4.052493
+Pixels per process: 1176470
+Running with 86 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 86
+Threads per process: 1
+Compute time: 0.515360
+I/O time: 3.349217
+Total time: 3.864886
+Pixels per process: 1162790
+Running with 87 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 87
+Threads per process: 1
+Compute time: 0.508081
+I/O time: 4.119680
+Total time: 4.628004
+Pixels per process: 1149425
+Running with 88 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 88
+Threads per process: 1
+Compute time: 0.503648
+I/O time: 1.081067
+Total time: 1.584974
+Pixels per process: 1136363
+Running with 89 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 89
+Threads per process: 1
+Compute time: 0.497252
+I/O time: 4.809304
+Total time: 5.306830
+Pixels per process: 1123595
+Running with 90 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 90
+Threads per process: 1
+Compute time: 0.490591
+I/O time: 4.791520
+Total time: 5.282522
+Pixels per process: 1111111
+Running with 91 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 91
+Threads per process: 1
+Compute time: 0.490272
+I/O time: 5.824529
+Total time: 6.315097
+Pixels per process: 1098901
+Running with 92 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 92
+Threads per process: 1
+Compute time: 0.484480
+I/O time: 0.686215
+Total time: 1.171057
+Pixels per process: 1086956
+Running with 93 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 93
+Threads per process: 1
+Compute time: 0.475715
+I/O time: 4.939050
+Total time: 5.415085
+Pixels per process: 1075268
+Running with 94 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 94
+Threads per process: 1
+Compute time: 0.473196
+I/O time: 5.088905
+Total time: 5.562395
+Pixels per process: 1063829
+Running with 95 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 95
+Threads per process: 1
+Compute time: 0.467879
+I/O time: 1.530490
+Total time: 1.998641
+Pixels per process: 1052631
+Running with 96 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 96
+Threads per process: 1
+Compute time: 0.461258
+I/O time: 0.176533
+Total time: 0.638214
+Pixels per process: 1041666
+Running with 97 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 97
+Threads per process: 1
+Compute time: 0.459528
+I/O time: 4.874687
+Total time: 5.334583
+Pixels per process: 1030927
+Running with 98 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 98
+Threads per process: 1
+Compute time: 0.455220
+I/O time: 4.002497
+Total time: 4.458018
+Pixels per process: 1020408
+Running with 99 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 99
+Threads per process: 1
+Compute time: 0.447917
+I/O time: 5.355925
+Total time: 5.804155
+Pixels per process: 1010101
+Running with 100 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 100
+Threads per process: 1
+Compute time: 0.447800
+I/O time: 4.857316
+Total time: 5.305510
+Pixels per process: 1000000
+Running with 101 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 101
+Threads per process: 1
+Compute time: 0.443405
+I/O time: 4.327468
+Total time: 4.771223
+Pixels per process: 990099
+Running with 102 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 102
+Threads per process: 1
+Compute time: 0.435867
+I/O time: 1.654479
+Total time: 2.090783
+Pixels per process: 980392
+Running with 103 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 103
+Threads per process: 1
+Compute time: 0.435861
+I/O time: 3.711498
+Total time: 4.147863
+Pixels per process: 970873
+Running with 104 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 104
+Threads per process: 1
+Compute time: 0.431754
+I/O time: 1.540793
+Total time: 1.972928
+Pixels per process: 961538
+Running with 105 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 105
+Threads per process: 1
+Compute time: 0.425552
+I/O time: 4.021370
+Total time: 4.447335
+Pixels per process: 952380
+Running with 106 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 106
+Threads per process: 1
+Compute time: 0.423752
+I/O time: 4.125965
+Total time: 4.550188
+Pixels per process: 943396
+Running with 107 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 107
+Threads per process: 1
+Compute time: 0.417537
+I/O time: 4.414071
+Total time: 4.832032
+Pixels per process: 934579
+Running with 108 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 108
+Threads per process: 1
+Compute time: 0.413966
+I/O time: 3.616722
+Total time: 4.031214
+Pixels per process: 925925
+Running with 109 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 109
+Threads per process: 1
+Compute time: 0.417099
+I/O time: 4.315926
+Total time: 4.733223
+Pixels per process: 917431
+Running with 110 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 110
+Threads per process: 1
+Compute time: 0.411332
+I/O time: 1.356249
+Total time: 1.767981
+Pixels per process: 909090
+Running with 111 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 111
+Threads per process: 1
+Compute time: 0.404354
+I/O time: 4.250977
+Total time: 4.655728
+Pixels per process: 900900
+Running with 112 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 112
+Threads per process: 1
+Compute time: 0.402916
+I/O time: 8.450085
+Total time: 8.853334
+Pixels per process: 892857
+Running with 113 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 113
+Threads per process: 1
+Compute time: 0.397078
+I/O time: 4.018705
+Total time: 4.416157
+Pixels per process: 884955
+Running with 114 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 114
+Threads per process: 1
+Compute time: 0.399066
+I/O time: 4.373425
+Total time: 4.772813
+Pixels per process: 877192
+Running with 115 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 115
+Threads per process: 1
+Compute time: 0.395967
+I/O time: 5.483463
+Total time: 5.880000
+Pixels per process: 869565
+Running with 116 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 116
+Threads per process: 1
+Compute time: 0.389777
+I/O time: 4.655786
+Total time: 5.045988
+Pixels per process: 862068
+Running with 117 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 117
+Threads per process: 1
+Compute time: 0.386381
+I/O time: 4.884191
+Total time: 5.271187
+Pixels per process: 854700
+Running with 118 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 118
+Threads per process: 1
+Compute time: 0.389393
+I/O time: 5.713928
+Total time: 6.103842
+Pixels per process: 847457
+Running with 119 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 119
+Threads per process: 1
+Compute time: 0.386214
+I/O time: 4.178024
+Total time: 4.564764
+Pixels per process: 840336
+Running with 120 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 120
+Threads per process: 1
+Compute time: 0.382418
+I/O time: 4.781604
+Total time: 5.164367
+Pixels per process: 833333
+Running with 121 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 121
+Threads per process: 1
+Compute time: 0.375592
+I/O time: 5.343252
+Total time: 5.719516
+Pixels per process: 826446
+Running with 122 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 122
+Threads per process: 1
+Compute time: 0.377378
+I/O time: 5.171336
+Total time: 5.549290
+Pixels per process: 819672
+Running with 123 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 123
+Threads per process: 1
+Compute time: 0.372525
+I/O time: 0.992706
+Total time: 1.365741
+Pixels per process: 813008
+Running with 124 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 124
+Threads per process: 1
+Compute time: 0.370791
+I/O time: 4.412699
+Total time: 4.784118
+Pixels per process: 806451
+Running with 125 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 125
+Threads per process: 1
+Compute time: 0.371318
+I/O time: 5.029556
+Total time: 5.401467
+Pixels per process: 800000
+Running with 126 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 126
+Threads per process: 1
+Compute time: 0.366150
+I/O time: 1.392500
+Total time: 1.759233
+Pixels per process: 793650
+Running with 127 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 127
+Threads per process: 1
+Compute time: 0.369364
+I/O time: 4.978363
+Total time: 5.348194
+Pixels per process: 787401
+Running with 128 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 128
+Threads per process: 1
+Compute time: 0.365362
+I/O time: 5.601610
+Total time: 5.967598
+Pixels per process: 781250
+Running with 129 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 129
+Threads per process: 1
+Compute time: 0.359603
+I/O time: 4.895568
+Total time: 5.258820
+Pixels per process: 775193
+Running with 130 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 130
+Threads per process: 1
+Compute time: 0.360265
+I/O time: 6.006335
+Total time: 6.369878
+Pixels per process: 769230
+Running with 131 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 131
+Threads per process: 1
+Compute time: 0.354703
+I/O time: 5.964685
+Total time: 6.322348
+Pixels per process: 763358
+Running with 132 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 132
+Threads per process: 1
+Compute time: 0.355276
+I/O time: 5.523417
+Total time: 5.882609
+Pixels per process: 757575
+Running with 133 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 133
+Threads per process: 1
+Compute time: 0.348943
+I/O time: 5.607966
+Total time: 5.960072
+Pixels per process: 751879
+Running with 134 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 134
+Threads per process: 1
+Compute time: 0.341556
+I/O time: 5.791776
+Total time: 6.136459
+Pixels per process: 746268
+Running with 135 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 135
+Threads per process: 1
+Compute time: 0.340639
+I/O time: 4.458408
+Total time: 4.802789
+Pixels per process: 740740
+Running with 136 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 136
+Threads per process: 1
+Compute time: 0.337989
+I/O time: 5.422837
+Total time: 5.764200
+Pixels per process: 735294
+Running with 137 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 137
+Threads per process: 1
+Compute time: 0.338855
+I/O time: 5.524264
+Total time: 5.867482
+Pixels per process: 729927
+Running with 138 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 138
+Threads per process: 1
+Compute time: 0.332781
+I/O time: 5.644466
+Total time: 5.980166
+Pixels per process: 724637
+Running with 139 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 139
+Threads per process: 1
+Compute time: 0.336859
+I/O time: 4.564941
+Total time: 4.905030
+Pixels per process: 719424
+Running with 140 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 140
+Threads per process: 1
+Compute time: 0.329836
+I/O time: 4.833017
+Total time: 5.167485
+Pixels per process: 714285
+Running with 141 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 141
+Threads per process: 1
+Compute time: 0.331047
+I/O time: 4.525790
+Total time: 4.860011
+Pixels per process: 709219
+Running with 142 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 142
+Threads per process: 1
+Compute time: 0.326662
+I/O time: 5.644873
+Total time: 5.978027
+Pixels per process: 704225
+Running with 143 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 143
+Threads per process: 1
+Compute time: 0.326282
+I/O time: 5.027067
+Total time: 5.360146
+Pixels per process: 699300
+Running with 144 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 144
+Threads per process: 1
+Compute time: 0.322230
+I/O time: 4.603572
+Total time: 4.929635
+Pixels per process: 694444
+Running with 145 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 145
+Threads per process: 1
+Compute time: 0.319740
+I/O time: 5.160076
+Total time: 5.483188
+Pixels per process: 689655
+Running with 146 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 146
+Threads per process: 1
+Compute time: 0.312861
+I/O time: 5.807010
+Total time: 6.124680
+Pixels per process: 684931
+Running with 147 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 147
+Threads per process: 1
+Compute time: 0.311960
+I/O time: 5.096099
+Total time: 5.411123
+Pixels per process: 680272
+Running with 148 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 148
+Threads per process: 1
+Compute time: 0.309846
+I/O time: 4.759226
+Total time: 5.072713
+Pixels per process: 675675
+Running with 149 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 149
+Threads per process: 1
+Compute time: 0.310195
+I/O time: 5.476245
+Total time: 5.793564
+Pixels per process: 671140
+Running with 150 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 150
+Threads per process: 1
+Compute time: 0.309671
+I/O time: 4.673179
+Total time: 4.987657
+Pixels per process: 666666
+Running with 151 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 151
+Threads per process: 1
+Compute time: 0.307873
+I/O time: 4.786707
+Total time: 5.098367
+Pixels per process: 662251
+Running with 152 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 152
+Threads per process: 1
+Compute time: 0.305438
+I/O time: 4.744274
+Total time: 5.053254
+Pixels per process: 657894
+Running with 153 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 153
+Threads per process: 1
+Compute time: 0.303315
+I/O time: 5.144742
+Total time: 5.454963
+Pixels per process: 653594
+Running with 154 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 154
+Threads per process: 1
+Compute time: 0.303340
+I/O time: 5.948106
+Total time: 6.255116
+Pixels per process: 649350
+Running with 155 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 155
+Threads per process: 1
+Compute time: 0.296401
+I/O time: 13.682160
+Total time: 13.982302
+Pixels per process: 645161
+Running with 156 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 156
+Threads per process: 1
+Compute time: 0.298016
+I/O time: 5.459971
+Total time: 5.761680
+Pixels per process: 641025
+Running with 157 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 157
+Threads per process: 1
+Compute time: 0.763487
+I/O time: 5.593142
+Total time: 6.361357
+Pixels per process: 636942
+Running with 158 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 158
+Threads per process: 1
+Compute time: 0.291410
+I/O time: 6.046821
+Total time: 6.342540
+Pixels per process: 632911
+Running with 159 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 159
+Threads per process: 1
+Compute time: 0.292599
+I/O time: 5.632151
+Total time: 5.930086
+Pixels per process: 628930
+Running with 160 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 160
+Threads per process: 1
+Compute time: 0.287656
+I/O time: 5.016853
+Total time: 5.308687
+Pixels per process: 625000
+Running with 161 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 161
+Threads per process: 1
+Compute time: 0.288002
+I/O time: 4.953573
+Total time: 5.245678
+Pixels per process: 621118
+Running with 162 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 162
+Threads per process: 1
+Compute time: 0.288208
+I/O time: 5.404916
+Total time: 5.699035
+Pixels per process: 617283
+Running with 163 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 163
+Threads per process: 1
+Compute time: 0.286176
+I/O time: 5.625148
+Total time: 5.915213
+Pixels per process: 613496
+Running with 164 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 164
+Threads per process: 1
+Compute time: 0.286072
+I/O time: 4.946282
+Total time: 5.239342
+Pixels per process: 609756
+Running with 165 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 165
+Threads per process: 1
+Compute time: 0.281185
+I/O time: 4.916532
+Total time: 5.201848
+Pixels per process: 606060
+Running with 166 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 166
+Threads per process: 1
+Compute time: 0.282698
+I/O time: 5.467510
+Total time: 5.753648
+Pixels per process: 602409
+Running with 167 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 167
+Threads per process: 1
+Compute time: 0.280703
+I/O time: 5.073183
+Total time: 5.357402
+Pixels per process: 598802
+Running with 168 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 168
+Threads per process: 1
+Compute time: 0.277582
+I/O time: 5.238501
+Total time: 5.519549
+Pixels per process: 595238
+Running with 169 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 169
+Threads per process: 1
+Compute time: 0.275244
+I/O time: 4.571084
+Total time: 4.850014
+Pixels per process: 591715
+Running with 170 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 170
+Threads per process: 1
+Compute time: 0.273164
+I/O time: 5.191299
+Total time: 5.470067
+Pixels per process: 588235
+Running with 171 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 171
+Threads per process: 1
+Compute time: 0.270295
+I/O time: 5.262102
+Total time: 5.539799
+Pixels per process: 584795
+Running with 172 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 172
+Threads per process: 1
+Compute time: 0.270894
+I/O time: 5.067068
+Total time: 5.341520
+Pixels per process: 581395
+Running with 173 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 173
+Threads per process: 1
+Compute time: 0.269352
+I/O time: 7.312013
+Total time: 7.585364
+Pixels per process: 578034
+Running with 174 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 174
+Threads per process: 1
+Compute time: 0.266058
+I/O time: 4.748118
+Total time: 5.018510
+Pixels per process: 574712
+Running with 175 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 175
+Threads per process: 1
+Compute time: 0.268300
+I/O time: 5.896720
+Total time: 6.168699
+Pixels per process: 571428
+Running with 176 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 176
+Threads per process: 1
+Compute time: 0.267355
+I/O time: 5.277790
+Total time: 5.549957
+Pixels per process: 568181
+Running with 177 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 177
+Threads per process: 1
+Compute time: 0.264157
+I/O time: 4.439943
+Total time: 4.708466
+Pixels per process: 564971
+Running with 178 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 178
+Threads per process: 1
+Compute time: 0.263916
+I/O time: 5.185179
+Total time: 5.453546
+Pixels per process: 561797
+Running with 179 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 179
+Threads per process: 1
+Compute time: 0.262021
+I/O time: 4.970707
+Total time: 5.239248
+Pixels per process: 558659
+Running with 180 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 180
+Threads per process: 1
+Compute time: 0.260214
+I/O time: 4.914799
+Total time: 5.179474
+Pixels per process: 555555
+Running with 181 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 181
+Threads per process: 1
+Compute time: 0.258998
+I/O time: 4.988341
+Total time: 5.252074
+Pixels per process: 552486
+Running with 182 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 182
+Threads per process: 1
+Compute time: 0.257967
+I/O time: 4.941189
+Total time: 5.203662
+Pixels per process: 549450
+Running with 183 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 183
+Threads per process: 1
+Compute time: 0.252960
+I/O time: 5.855980
+Total time: 6.112848
+Pixels per process: 546448
+Running with 184 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 184
+Threads per process: 1
+Compute time: 0.253768
+I/O time: 4.697845
+Total time: 4.956667
+Pixels per process: 543478
+Running with 185 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 185
+Threads per process: 1
+Compute time: 0.254275
+I/O time: 4.396238
+Total time: 4.654262
+Pixels per process: 540540
+Running with 186 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 186
+Threads per process: 1
+Compute time: 0.254053
+I/O time: 5.510054
+Total time: 5.769351
+Pixels per process: 537634
+Running with 187 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 187
+Threads per process: 1
+Compute time: 0.250666
+I/O time: 4.829496
+Total time: 5.087245
+Pixels per process: 534759
+Running with 188 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 188
+Threads per process: 1
+Compute time: 0.250214
+I/O time: 4.854989
+Total time: 5.109866
+Pixels per process: 531914
+Running with 189 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 189
+Threads per process: 1
+Compute time: 0.250631
+I/O time: 4.371127
+Total time: 4.628560
+Pixels per process: 529100
+Running with 190 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 190
+Threads per process: 1
+Compute time: 0.245613
+I/O time: 4.555171
+Total time: 4.807629
+Pixels per process: 526315
+Running with 191 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 191
+Threads per process: 1
+Compute time: 0.245273
+I/O time: 4.148732
+Total time: 4.397472
+Pixels per process: 523560
+Running with 192 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 192
+Threads per process: 1
+Compute time: 0.245854
+I/O time: 4.870620
+Total time: 5.123121
+Pixels per process: 520833
+Running with 193 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 193
+Threads per process: 1
+Compute time: 0.242466
+I/O time: 5.372825
+Total time: 5.619905
+Pixels per process: 518134
+Running with 194 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 194
+Threads per process: 1
+Compute time: 0.235956
+I/O time: 5.357572
+Total time: 5.598196
+Pixels per process: 515463
+Running with 195 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 195
+Threads per process: 1
+Compute time: 0.235868
+I/O time: 5.031839
+Total time: 5.272319
+Pixels per process: 512820
+Running with 196 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 196
+Threads per process: 1
+Compute time: 0.234838
+I/O time: 5.308304
+Total time: 5.547027
+Pixels per process: 510204
+Running with 197 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 197
+Threads per process: 1
+Compute time: 0.234295
+I/O time: 4.979205
+Total time: 5.219333
+Pixels per process: 507614
+Running with 198 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 198
+Threads per process: 1
+Compute time: 0.227592
+I/O time: 5.042611
+Total time: 5.275972
+Pixels per process: 505050
+Running with 199 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 199
+Threads per process: 1
+Compute time: 0.225178
+I/O time: 4.954468
+Total time: 5.185545
+Pixels per process: 502512
+Running with 200 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 200
+Threads per process: 1
+Compute time: 0.225344
+I/O time: 5.010481
+Total time: 5.240334
+Pixels per process: 500000
+Running with 201 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 201
+Threads per process: 1
+Compute time: 0.225441
+I/O time: 5.069488
+Total time: 5.299981
+Pixels per process: 497512
+Running with 202 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 202
+Threads per process: 1
+Compute time: 0.220072
+I/O time: 5.926268
+Total time: 6.150372
+Pixels per process: 495049
+Running with 203 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 203
+Threads per process: 1
+Compute time: 0.219386
+I/O time: 4.926573
+Total time: 5.151463
+Pixels per process: 492610
+Running with 204 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 204
+Threads per process: 1
+Compute time: 0.219576
+I/O time: 5.311535
+Total time: 5.538364
+Pixels per process: 490196
+Running with 205 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 205
+Threads per process: 1
+Compute time: 0.220087
+I/O time: 4.987379
+Total time: 5.214591
+Pixels per process: 487804
+Running with 206 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 206
+Threads per process: 1
+Compute time: 0.216442
+I/O time: 5.276407
+Total time: 5.496343
+Pixels per process: 485436
+Running with 207 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 207
+Threads per process: 1
+Compute time: 0.216050
+I/O time: 4.787100
+Total time: 5.006098
+Pixels per process: 483091
+Running with 208 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 208
+Threads per process: 1
+Compute time: 0.216702
+I/O time: 4.365860
+Total time: 4.586214
+Pixels per process: 480769
+Running with 209 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 209
+Threads per process: 1
+Compute time: 0.215976
+I/O time: 4.646394
+Total time: 4.868286
+Pixels per process: 478468
+Running with 210 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 210
+Threads per process: 1
+Compute time: 0.210955
+I/O time: 4.757909
+Total time: 4.975515
+Pixels per process: 476190
+Running with 211 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 211
+Threads per process: 1
+Compute time: 0.211437
+I/O time: 4.751802
+Total time: 4.967427
+Pixels per process: 473933
+Running with 212 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 212
+Threads per process: 1
+Compute time: 0.211892
+I/O time: 5.262603
+Total time: 5.478667
+Pixels per process: 471698
+Running with 213 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 213
+Threads per process: 1
+Compute time: 0.211476
+I/O time: 7.966251
+Total time: 8.181215
+Pixels per process: 469483
+Running with 214 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 214
+Threads per process: 1
+Compute time: 0.211714
+I/O time: 4.361118
+Total time: 4.576369
+Pixels per process: 467289
+Running with 215 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 215
+Threads per process: 1
+Compute time: 0.207922
+I/O time: 4.954479
+Total time: 5.168772
+Pixels per process: 465116
+Running with 216 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 216
+Threads per process: 1
+Compute time: 0.207874
+I/O time: 4.909974
+Total time: 5.121477
+Pixels per process: 462962
+Running with 217 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 217
+Threads per process: 1
+Compute time: 0.207703
+I/O time: 4.994915
+Total time: 5.206443
+Pixels per process: 460829
+Running with 218 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 218
+Threads per process: 1
+Compute time: 0.206867
+I/O time: 4.428993
+Total time: 4.640775
+Pixels per process: 458715
+Running with 219 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 219
+Threads per process: 1
+Compute time: 0.206425
+I/O time: 4.989061
+Total time: 5.199224
+Pixels per process: 456621
+Running with 220 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 220
+Threads per process: 1
+Compute time: 0.202225
+I/O time: 4.329703
+Total time: 4.535516
+Pixels per process: 454545
+Running with 221 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 221
+Threads per process: 1
+Compute time: 0.202481
+I/O time: 4.591714
+Total time: 4.797910
+Pixels per process: 452488
+Running with 222 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 222
+Threads per process: 1
+Compute time: 0.202374
+I/O time: 3.880368
+Total time: 4.086032
+Pixels per process: 450450
+Running with 223 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 223
+Threads per process: 1
+Compute time: 0.203460
+I/O time: 5.440554
+Total time: 5.647138
+Pixels per process: 448430
+Running with 224 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 224
+Threads per process: 1
+Compute time: 0.198522
+I/O time: 4.769268
+Total time: 4.971411
+Pixels per process: 446428
+Running with 225 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 225
+Threads per process: 1
+Compute time: 0.199191
+I/O time: 4.087417
+Total time: 4.290587
+Pixels per process: 444444
+Running with 226 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 226
+Threads per process: 1
+Compute time: 0.198946
+I/O time: 5.104761
+Total time: 5.307593
+Pixels per process: 442477
+Running with 227 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 227
+Threads per process: 1
+Compute time: 0.199207
+I/O time: 3.975202
+Total time: 4.177452
+Pixels per process: 440528
+Running with 228 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 228
+Threads per process: 1
+Compute time: 0.199193
+I/O time: 4.297650
+Total time: 4.500533
+Pixels per process: 438596
+Running with 229 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 229
+Threads per process: 1
+Compute time: 0.199098
+I/O time: 4.361150
+Total time: 4.563745
+Pixels per process: 436681
+Running with 230 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 230
+Threads per process: 1
+Compute time: 0.194546
+I/O time: 4.484014
+Total time: 4.682162
+Pixels per process: 434782
+Running with 231 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 231
+Threads per process: 1
+Compute time: 0.195011
+I/O time: 4.815385
+Total time: 5.013785
+Pixels per process: 432900
+Running with 232 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 232
+Threads per process: 1
+Compute time: 0.195205
+I/O time: 4.704696
+Total time: 4.903751
+Pixels per process: 431034
+Running with 233 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 233
+Threads per process: 1
+Compute time: 0.194325
+I/O time: 4.753348
+Total time: 4.950557
+Pixels per process: 429184
+Running with 234 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 234
+Threads per process: 1
+Compute time: 0.194302
+I/O time: 4.689517
+Total time: 4.887551
+Pixels per process: 427350
+Running with 235 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 235
+Threads per process: 1
+Compute time: 0.190538
+I/O time: 4.549504
+Total time: 4.744168
+Pixels per process: 425531
+Running with 236 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 236
+Threads per process: 1
+Compute time: 0.191093
+I/O time: 4.459710
+Total time: 4.653973
+Pixels per process: 423728
+Running with 237 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 237
+Threads per process: 1
+Compute time: 0.190945
+I/O time: 5.311984
+Total time: 5.506462
+Pixels per process: 421940
+Running with 238 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 238
+Threads per process: 1
+Compute time: 0.191590
+I/O time: 4.175277
+Total time: 4.370199
+Pixels per process: 420168
+Running with 239 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 239
+Threads per process: 1
+Compute time: 0.191381
+I/O time: 4.800197
+Total time: 4.995109
+Pixels per process: 418410
+Running with 240 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 240
+Threads per process: 1
+Compute time: 0.191209
+I/O time: 4.898116
+Total time: 5.092818
+Pixels per process: 416666
+Running with 241 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 241
+Threads per process: 1
+Compute time: 0.186603
+I/O time: 4.411653
+Total time: 4.601913
+Pixels per process: 414937
+Running with 242 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 242
+Threads per process: 1
+Compute time: 0.187258
+I/O time: 4.736566
+Total time: 4.927017
+Pixels per process: 413223
+Running with 243 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 243
+Threads per process: 1
+Compute time: 0.186951
+I/O time: 4.709103
+Total time: 4.899663
+Pixels per process: 411522
+Running with 244 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 244
+Threads per process: 1
+Compute time: 0.187277
+I/O time: 4.489623
+Total time: 4.680186
+Pixels per process: 409836
+Running with 245 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 245
+Threads per process: 1
+Compute time: 0.187523
+I/O time: 4.854404
+Total time: 5.045321
+Pixels per process: 408163
+Running with 246 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 246
+Threads per process: 1
+Compute time: 0.183269
+I/O time: 5.104805
+Total time: 5.291777
+Pixels per process: 406504
+Running with 247 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 247
+Threads per process: 1
+Compute time: 0.182651
+I/O time: 4.334637
+Total time: 4.520798
+Pixels per process: 404858
+Running with 248 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 248
+Threads per process: 1
+Compute time: 0.183535
+I/O time: 4.813710
+Total time: 5.001176
+Pixels per process: 403225
+Running with 249 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 249
+Threads per process: 1
+Compute time: 0.184066
+I/O time: 4.643870
+Total time: 4.831848
+Pixels per process: 401606
+Running with 250 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 250
+Threads per process: 1
+Compute time: 0.183677
+I/O time: 4.036550
+Total time: 4.223917
+Pixels per process: 400000
+Running with 251 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 251
+Threads per process: 1
+Compute time: 0.183612
+I/O time: 3.842116
+Total time: 4.030069
+Pixels per process: 398406
+Running with 252 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 252
+Threads per process: 1
+Compute time: 0.184001
+I/O time: 4.154489
+Total time: 4.342576
+Pixels per process: 396825
+Running with 253 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 253
+Threads per process: 1
+Compute time: 0.179247
+I/O time: 4.612378
+Total time: 4.792230
+Pixels per process: 395256
+Running with 254 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 254
+Threads per process: 1
+Compute time: 0.179356
+I/O time: 4.480714
+Total time: 4.664253
+Pixels per process: 393700
+Running with 255 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 255
+Threads per process: 1
+Compute time: 0.179647
+I/O time: 4.947695
+Total time: 5.131440
+Pixels per process: 392156
+Running with 256 processes, image size 10000x10000
+Image size: 10000x10000
+Number of processes: 256
+Threads per process: 1
+Compute time: 0.180514
+I/O time: 4.902759
+Total time: 5.083979
+Pixels per process: 390625
+
+Job Statistics for Job ID 891504:
+JobID           JobName  Partition     MaxRSS  MaxVMSize    Elapsed      State 
+------------ ---------- ---------- ---------- ---------- ---------- ---------- 
+891504             bash       EPYC                         01:31:07    RUNNING 
+891504.batch      batch                                    01:31:07    RUNNING 
+891504.exte+     extern                                    01:31:07    RUNNING 
+891504.0          orted                                    00:00:16  COMPLETED 
+891504.1          orted                                    00:00:32  COMPLETED 
+891504.2          orted                                    00:00:43  COMPLETED 
+891504.3          orted                                    00:00:57  COMPLETED 
+891504.4          orted                                    00:01:09  COMPLETED 
+891504.5          orted                                    00:01:19  COMPLETED 
+891504.6          orted                                    00:01:30  COMPLETED 
+891504.7          orted                                    00:01:42  COMPLETED 
+891504.8          orted                                    00:01:52  COMPLETED 
+891504.9          orted                                    00:02:01  COMPLETED 
+891504.10         orted                                    00:02:10  COMPLETED 
+891504.11         orted                                    00:02:24  COMPLETED 
+891504.12         orted                                    00:02:32  COMPLETED 
+891504.13         orted                                    00:02:41  COMPLETED 
+891504.14         orted                                    00:02:50  COMPLETED 
+891504.15         orted                                    00:02:58  COMPLETED 
+891504.16         orted                                    00:03:07  COMPLETED 
+891504.17         orted                                    00:03:24  COMPLETED 
+891504.18         orted                                    00:03:33  COMPLETED 
+891504.19         orted                                    00:03:43  COMPLETED 
+891504.20         orted                                    00:03:52  COMPLETED 
+891504.21         orted                                    00:04:00  COMPLETED 
+891504.22         orted                                    00:04:09  COMPLETED 
+891504.23         orted                                    00:04:19  COMPLETED 
+891504.24         orted                                    00:04:36  COMPLETED 
+891504.25         orted                                    00:04:45  COMPLETED 
+891504.26         orted                                    00:05:05  COMPLETED 
+891504.27         orted                                    00:05:13  COMPLETED 
+891504.28         orted                                    00:05:22  COMPLETED 
+891504.29         orted                                    00:05:45  COMPLETED 
+891504.30         orted                                    00:05:54  COMPLETED 
+891504.31         orted                                    00:06:02  COMPLETED 
+891504.32         orted                                    00:06:11  COMPLETED 
+891504.33         orted                                    00:06:19  COMPLETED 
+891504.34         orted                                    00:06:29  COMPLETED 
+891504.35         orted                                    00:06:38  COMPLETED 
+891504.36         orted                                    00:06:48  COMPLETED 
+891504.37         orted                                    00:07:12  COMPLETED 
+891504.38         orted                                    00:07:36  COMPLETED 
+891504.39         orted                                    00:07:46  COMPLETED 
+891504.40         orted                                    00:07:56  COMPLETED 
+891504.41         orted                                    00:08:23  COMPLETED 
+891504.42         orted                                    00:08:52  COMPLETED 
+891504.43         orted                                    00:09:01  COMPLETED 
+891504.44         orted                                    00:09:30  COMPLETED 
+891504.45         orted                                    00:09:39  COMPLETED 
+891504.46         orted                                    00:09:49  COMPLETED 
+891504.47         orted                                    00:10:18  COMPLETED 
+891504.48         orted                                    00:10:47  COMPLETED 
+891504.49         orted                                    00:10:57  COMPLETED 
+891504.50         orted                                    00:11:07  COMPLETED 
+891504.51         orted                                    00:11:42  COMPLETED 
+891504.52         orted                                    00:11:53  COMPLETED 
+891504.53         orted                                    00:12:00  COMPLETED 
+891504.54         orted                                    00:12:38  COMPLETED 
+891504.55         orted                                    00:13:09  COMPLETED 
+891504.56         orted                                    00:13:42  COMPLETED 
+891504.57         orted                                    00:14:17  COMPLETED 
+891504.58         orted                                    00:14:50  COMPLETED 
+891504.59         orted                                    00:15:27  COMPLETED 
+891504.60         orted                                    00:16:04  COMPLETED 
+891504.61         orted                                    00:16:15  COMPLETED 
+891504.62         orted                                    00:16:54  COMPLETED 
+891504.63         orted                                    00:17:33  COMPLETED 
+891504.64         orted                                    00:17:44  COMPLETED 
+891504.65         orted                                    00:18:23  COMPLETED 
+891504.66         orted                                    00:18:34  COMPLETED 
+891504.67         orted                                    00:18:45  COMPLETED 
+891504.68         orted                                    00:18:56  COMPLETED 
+891504.69         orted                                    00:19:39  COMPLETED 
+891504.70         orted                                    00:20:18  COMPLETED 
+891504.71         orted                                    00:20:26  COMPLETED 
+891504.72         orted                                    00:21:01  COMPLETED 
+891504.73         orted                                    00:21:39  COMPLETED 
+891504.74         orted                                    00:22:22  COMPLETED 
+891504.75         orted                                    00:22:59  COMPLETED 
+891504.76         orted                                    00:23:07  COMPLETED 
+891504.77         orted                                    00:23:44  COMPLETED 
+891504.78         orted                                    00:24:29  COMPLETED 
+891504.79         orted                                    00:25:09  COMPLETED 
+891504.80         orted                                    00:25:51  COMPLETED 
+891504.81         orted                                    00:26:33  COMPLETED 
+891504.82         orted                                    00:26:41  COMPLETED 
+891504.83         orted                                    00:26:54  COMPLETED 
+891504.84         orted                                    00:27:05  COMPLETED 
+891504.85         orted                                    00:27:15  COMPLETED 
+891504.86         orted                                    00:27:53  COMPLETED 
+891504.87         orted                                    00:28:02  COMPLETED 
+891504.88         orted                                    00:28:45  COMPLETED 
+891504.89         orted                                    00:28:58  COMPLETED 
+891504.90         orted                                    00:29:41  COMPLETED 
+891504.91         orted                                    00:29:49  COMPLETED 
+891504.92         orted                                    00:30:02  COMPLETED 
+891504.93         orted                                    00:30:15  COMPLETED 
+891504.94         orted                                    00:30:24  COMPLETED 
+891504.95         orted                                    00:30:32  COMPLETED 
+891504.96         orted                                    00:30:45  COMPLETED 
+891504.97         orted                                    00:31:22  COMPLETED 
+891504.98         orted                                    00:31:59  COMPLETED 
+891504.99         orted                                    00:32:11  COMPLETED 
+891504.100        orted                                    00:32:24  COMPLETED 
+891504.101        orted                                    00:32:34  COMPLETED 
+891504.102        orted                                    00:33:12  COMPLETED 
+891504.103        orted                                    00:33:21  COMPLETED 
+891504.104        orted                                    00:34:06  COMPLETED 
+891504.105        orted                                    00:34:18  COMPLETED 
+891504.106        orted                                    00:34:30  COMPLETED 
+891504.107        orted                                    00:34:42  COMPLETED 
+891504.108        orted                                    00:34:55  COMPLETED 
+891504.109        orted                                    00:35:04  COMPLETED 
+891504.110        orted                                    00:35:44  COMPLETED 
+891504.111        orted                                    00:36:01  COMPLETED 
+891504.112        orted                                    00:36:39  COMPLETED 
+891504.113        orted                                    00:36:52  COMPLETED 
+891504.114        orted                                    00:37:32  COMPLETED 
+891504.115        orted                                    00:38:11  COMPLETED 
+891504.116        orted                                    00:38:24  COMPLETED 
+891504.117        orted                                    00:39:06  COMPLETED 
+891504.118        orted                                    00:39:18  COMPLETED 
+891504.119        orted                                    00:39:59  COMPLETED 
+891504.120        orted                                    00:40:13  COMPLETED 
+891504.121        orted                                    00:40:52  COMPLETED 
+891504.122        orted                                    00:41:01  COMPLETED 
+891504.123        orted                                    00:41:14  COMPLETED 
+891504.124        orted                                    00:41:28  COMPLETED 
+891504.125        orted                                    00:41:39  COMPLETED 
+891504.126        orted                                    00:41:52  COMPLETED 
+891504.127        orted                                    00:42:31  COMPLETED 
+891504.128        orted                                    00:43:08  COMPLETED 
+891504.129        orted                                    00:43:22  COMPLETED 
+891504.130        orted                                    00:43:37  COMPLETED 
+891504.131        orted                                    00:44:19  COMPLETED 
+891504.132        orted                                    00:44:34  COMPLETED 
+891504.133        orted                                    00:44:48  COMPLETED 
+891504.134        orted                                    00:45:01  COMPLETED 
+891504.135        orted                                    00:45:15  COMPLETED 
+891504.136        orted                                    00:45:53  COMPLETED 
+891504.137        orted                                    00:46:07  COMPLETED 
+891504.138        orted                                    00:46:20  COMPLETED 
+891504.139        orted                                    00:46:33  COMPLETED 
+891504.140        orted                                    00:47:17  COMPLETED 
+891504.141        orted                                    00:47:31  COMPLETED 
+891504.142        orted                                    00:47:45  COMPLETED 
+891504.143        orted                                    00:47:58  COMPLETED 
+891504.144        orted                                    00:48:12  COMPLETED 
+891504.145        orted                                    00:48:58  COMPLETED 
+891504.146        orted                                    00:49:12  COMPLETED 
+891504.147        orted                                    00:49:25  COMPLETED 
+891504.148        orted                                    00:50:07  COMPLETED 
+891504.149        orted                                    00:50:20  COMPLETED 
+891504.150        orted                                    00:50:34  COMPLETED 
+891504.151        orted                                    00:51:16  COMPLETED 
+891504.152        orted                                    00:51:57  COMPLETED 
+891504.153        orted                                    00:52:39  COMPLETED 
+891504.154        orted                                    00:53:01  COMPLETED 
+891504.155        orted                                    00:53:15  COMPLETED 
+891504.156        orted                                    00:53:29  COMPLETED 
+891504.157        orted                                    00:53:44  COMPLETED 
+891504.158        orted                                    00:53:58  COMPLETED 
+891504.159        orted                                    00:54:38  COMPLETED 
+891504.160        orted                                    00:54:51  COMPLETED 
+891504.161        orted                                    00:55:05  COMPLETED 
+891504.162        orted                                    00:55:20  COMPLETED 
+891504.163        orted                                    00:55:59  COMPLETED 
+891504.164        orted                                    00:56:12  COMPLETED 
+891504.165        orted                                    00:56:26  COMPLETED 
+891504.166        orted                                    00:56:39  COMPLETED 
+891504.167        orted                                    00:57:19  COMPLETED 
+891504.168        orted                                    00:57:32  COMPLETED 
+891504.169        orted                                    00:57:46  COMPLETED 
+891504.170        orted                                    00:58:00  COMPLETED 
+891504.171        orted                                    00:58:13  COMPLETED 
+891504.172        orted                                    00:58:55  COMPLETED 
+891504.173        orted                                    00:59:41  COMPLETED 
+891504.174        orted                                    00:59:55  COMPLETED 
+891504.175        orted                                    01:00:36  COMPLETED 
+891504.176        orted                                    01:00:48  COMPLETED 
+891504.177        orted                                    01:01:02  COMPLETED 
+891504.178        orted                                    01:01:15  COMPLETED 
+891504.179        orted                                    01:01:29  COMPLETED 
+891504.180        orted                                    01:01:42  COMPLETED 
+891504.181        orted                                    01:02:27  COMPLETED 
+891504.182        orted                                    01:02:42  COMPLETED 
+891504.183        orted                                    01:02:55  COMPLETED 
+891504.184        orted                                    01:03:08  COMPLETED 
+891504.185        orted                                    01:03:22  COMPLETED 
+891504.186        orted                                    01:03:36  COMPLETED 
+891504.187        orted                                    01:04:13  COMPLETED 
+891504.188        orted                                    01:04:26  COMPLETED 
+891504.189        orted                                    01:04:39  COMPLETED 
+891504.190        orted                                    01:05:24  COMPLETED 
+891504.191        orted                                    01:06:11  COMPLETED 
+891504.192        orted                                    01:06:53  COMPLETED 
+891504.193        orted                                    01:07:06  COMPLETED 
+891504.194        orted                                    01:07:20  COMPLETED 
+891504.195        orted                                    01:07:33  COMPLETED 
+891504.196        orted                                    01:08:12  COMPLETED 
+891504.197        orted                                    01:08:56  COMPLETED 
+891504.198        orted                                    01:09:10  COMPLETED 
+891504.199        orted                                    01:09:23  COMPLETED 
+891504.200        orted                                    01:09:36  COMPLETED 
+891504.201        orted                                    01:10:17  COMPLETED 
+891504.202        orted                                    01:10:30  COMPLETED 
+891504.203        orted                                    01:10:44  COMPLETED 
+891504.204        orted                                    01:11:30  COMPLETED 
+891504.205        orted                                    01:12:09  COMPLETED 
+891504.206        orted                                    01:12:49  COMPLETED 
+891504.207        orted                                    01:13:02  COMPLETED 
+891504.208        orted                                    01:13:15  COMPLETED 
+891504.209        orted                                    01:13:54  COMPLETED 
+891504.210        orted                                    01:14:07  COMPLETED 
+891504.211        orted                                    01:14:49  COMPLETED 
+891504.212        orted                                    01:15:06  COMPLETED 
+891504.213        orted                                    01:15:47  COMPLETED 
+891504.214        orted                                    01:16:00  COMPLETED 
+891504.215        orted                                    01:16:43  COMPLETED 
+891504.216        orted                                    01:16:56  COMPLETED 
+891504.217        orted                                    01:17:09  COMPLETED 
+891504.218        orted                                    01:17:50  COMPLETED 
+891504.219        orted                                    01:18:03  COMPLETED 
+891504.220        orted                                    01:18:16  COMPLETED 
+891504.221        orted                                    01:18:58  COMPLETED 
+891504.222        orted                                    01:19:12  COMPLETED 
+891504.223        orted                                    01:19:25  COMPLETED 
+891504.224        orted                                    01:19:37  COMPLETED 
+891504.225        orted                                    01:19:51  COMPLETED 
+891504.226        orted                                    01:20:03  COMPLETED 
+891504.227        orted                                    01:20:16  COMPLETED 
+891504.228        orted                                    01:20:28  COMPLETED 
+891504.229        orted                                    01:21:06  COMPLETED 
+891504.230        orted                                    01:21:19  COMPLETED 
+891504.231        orted                                    01:22:00  COMPLETED 
+891504.232        orted                                    01:22:42  COMPLETED 
+891504.233        orted                                    01:22:55  COMPLETED 
+891504.234        orted                                    01:23:35  COMPLETED 
+891504.235        orted                                    01:23:47  COMPLETED 
+891504.236        orted                                    01:24:28  COMPLETED 
+891504.237        orted                                    01:25:12  COMPLETED 
+891504.238        orted                                    01:25:25  COMPLETED 
+891504.239        orted                                    01:25:39  COMPLETED 
+891504.240        orted                                    01:26:22  COMPLETED 
+891504.241        orted                                    01:27:04  COMPLETED 
+891504.242        orted                                    01:27:18  COMPLETED 
+891504.243        orted                                    01:27:30  COMPLETED 
+891504.244        orted                                    01:27:44  COMPLETED 
+891504.245        orted                                    01:27:58  COMPLETED 
+891504.246        orted                                    01:28:37  COMPLETED 
+891504.247        orted                                    01:28:51  COMPLETED 
+891504.248        orted                                    01:29:04  COMPLETED 
+891504.249        orted                                    01:29:16  COMPLETED 
+891504.250        orted                                    01:29:28  COMPLETED 
+891504.251        orted                                    01:29:41  COMPLETED 
+891504.252        orted                                    01:29:54  COMPLETED 
+891504.253        orted                                    01:30:07  COMPLETED 
+891504.254        orted                                    01:30:51  COMPLETED 
+891504.255        orted                                    01:31:05  COMPLETED 
+
+Scaling Results Summary:
+=========================
+Results saved in: ../results/strong_scaling_MPI_EPYC.csv
+Number of tests completed: 256
+Largest image size: 10000x10000
+Maximum number of processes: 256
