@@ -188,13 +188,13 @@ int main(int argc, char** argv) {
     double start_compute = MPI_Wtime();
     
     // Compute Mandelbrot set
-    #pragma omp parallel for collapse(2)
+    #pragma omp parallel for schedule(dynamic)
     for (int j = 0; j < local_rows; j++) {
         for (int i = 0; i < nx; i++) {
             double cx = x_left + i * dx;
             double cy = y_left + (start_row + j) * dy;
-            int iter = compute_mandelbrot(cx, cy, max_iter);
-            local_image[j * nx + i] = (unsigned char)(iter == max_iter ? 0 : iter);
+            int iter = 255 - compute_mandelbrot(cx, cy, max_iter);
+            local_image[j * nx + i] = (unsigned char)(iter == max_iter ? 1 : iter);
         }
     }
     

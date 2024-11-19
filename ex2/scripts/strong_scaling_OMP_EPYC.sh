@@ -33,9 +33,9 @@ fi
 
 # Define Mandelbrot set parameters
 X_LEFT=-2.0
-Y_LOWER=-2.0
+Y_LOWER=-1.5
 X_RIGHT=1.0
-Y_UPPER=1.0
+Y_UPPER=1.5
 MAX_ITERATIONS=255
 n=10000
 
