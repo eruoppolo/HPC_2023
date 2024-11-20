@@ -1,5 +1,7 @@
 # HPC Final Project: Exercise 2c
 
+![Alt text](/plots/mandelbrot_mpi.png "Mandelbrot set")
+
 ## Table of contents
 - [Project structure](#project-structure)
 - [Data gathering](#data-gathering)
