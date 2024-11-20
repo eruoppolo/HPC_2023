@@ -1,6 +1,8 @@
 # HPC Final Project: Exercise 2c
 
-![Alt text](ex2/plots/mandelbrot_mpi.png "Mandelbrot set")
+<div style="text-align: center;">
+    <img src="/plots/mandelbrot_mpi.png" alt="Alt text" width="800" height="500">
+</div>
 
 ## Table of contents
 - [Project structure](#project-structure)
