@@ -1,7 +1,7 @@
 # HPC Final Project: Exercise 2c
 
 <div style="text-align: center;">
-    <img src="plots/mandelbrot_mpi.png" alt="Alt text" width="800" height="500">
+    <img src="plots/mandelbrot_mpi.png" alt="Alt text" width="400" height="400">
 </div>
 
 ## Table of contents
