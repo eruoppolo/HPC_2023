@@ -1,5 +1,7 @@
 # HPC Final Project: Exercise 2c
 
+The aim of this project is to implement a hybrid MPI+OpenMP version of the Mandelbrot set computation algorithm, leveraging MPI for distributed memory parallelism and OpenMP for shared memory parallelism, and verifying the scaling performances of the code on the ORFEO cluster. The code was implemented using the C programming language and the MPI and OpenMP libraries. The performances were evaluated by measuring the speedup and efficiency of the code for different numbers of processes and threads. Both strong and weak scaling tests were conducted, either by fixing the MPI tasks and increasing the OMP threads or running a single OMP thread per MPI task and increasing the number of MPI tasks.
+
 <div style="text-align: center;">
     <img src="plots/mandelbrot_mpi.png" alt="Alt text" width="400" height="400">
 </div>
