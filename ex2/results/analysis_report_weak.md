@@ -8,19 +8,19 @@ No data quality issues detected.
 
 
 ### MPI Implementation
-- Maximum Speedup: 77.24x
-- Average Speedup: 39.44x
-- Average Efficiency: 31.85%
+- Maximum Speedup: 76.69x
+- Average Speedup: 39.23x
+- Average Efficiency: 31.69%
 - Peak Performance: 0.02 M pixels/second
-- Compute Time Range: 0.142s - 0.496s
-- I/O Time Range: 0.010s - 9.222s
-- Average I/O Overhead: 69.01%
+- Compute Time Range: 0.136s - 0.475s
+- I/O Time Range: 0.005s - 1.600s
+- Average I/O Overhead: 47.11%
 
 ### OpenMP Implementation
-- Maximum Speedup: 41.41x
-- Average Speedup: 20.80x
-- Average Efficiency: 33.61%
-- Peak Performance: 0.01 M pixels/second
-- Compute Time Range: 0.149s - 0.899s
-- I/O Time Range: 0.005s - 2.729s
-- Average I/O Overhead: 63.00%
+- Maximum Speedup: 62.41x
+- Average Speedup: 47.14x
+- Average Efficiency: 83.09%
+- Peak Performance: 0.05 M pixels/second
+- Compute Time Range: 0.135s - 0.281s
+- I/O Time Range: 0.005s - 0.067s
+- Average I/O Overhead: 12.37%
