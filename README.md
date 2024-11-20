@@ -1,2 +1,2 @@
-# High Performance Compunti
-## Exam project, class 2023-2024
+# High Performance Computing
+## Exam project - Class 2023-2024
