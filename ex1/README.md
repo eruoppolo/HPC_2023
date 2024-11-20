@@ -12,6 +12,7 @@ The aim of this project is to assess the performances of the OpenMPI library's c
 │ 
 ├── 📂 scripts/
 │   │
+│   ├── ⚙️ latency_pt2pt.sh
 │   ├── 📂 bcast/
 │   │   │
 │   │   ├── 📂 fixed/
