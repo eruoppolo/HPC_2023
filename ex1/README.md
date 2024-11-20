@@ -1,4 +1,5 @@
 # HPC Final Project: Exercise 1
+## Performance Evaluation of OpenMPI collective operations
 The aim of this project is to assess the performances of the OpenMPI library's collective operations on the EPYC partition of the ORFEO cluster. Many optimizations options have been tested for two specific collective algorithms: broadcast and scatter. Particularly the results presented evaluate the performance of a four of their possible implementations.
 ## Table of contents
 - [Project structure](#project-structure)
