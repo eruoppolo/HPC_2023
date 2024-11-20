@@ -46,7 +46,6 @@ echo "Workers,Size,ComputeTime,IOTime,TotalTime" > ${output_file}
 export OMP_PLACES=threads
 export OMP_PROC_BIND=close
 export OMP_WAIT_POLICY=active
-export OMP_DYNAMIC=false
 
 # Run scaling tests
 for THREADS in {1..128}; do

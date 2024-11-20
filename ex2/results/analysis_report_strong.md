@@ -9,6 +9,7 @@ No data quality issues detected.
 
 ### MPI Implementation
 - Maximum Speedup: 78.45x
+- Average Speedup: 39.61x
 - Average Efficiency: 31.76%
 - Peak Performance: 0.02 M pixels/second
 - Compute Time Range: 0.179s - 14.062s
@@ -17,6 +18,7 @@ No data quality issues detected.
 
 ### OpenMP Implementation
 - Maximum Speedup: 39.42x
+- Average Speedup: 20.37x
 - Average Efficiency: 33.22%
 - Peak Performance: 0.02 M pixels/second
 - Compute Time Range: 0.360s - 14.173s
