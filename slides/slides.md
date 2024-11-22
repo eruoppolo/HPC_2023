@@ -44,8 +44,8 @@ _Università degli Studi di Trieste - a.a. 2023-2024_
 ## Problem statement
 1. Estimate the latency of default openMPI implementation of two different collective operations
     * Varying the number of processes $\in[2^1-2^8]$ and the size of the messages exchanged $\in[2^0-2^{20}]$ bytes  
-    * Comparing the values obtained using different algorithms. 
-2. Fix the message size, collect data varying the number of processes and build a model to estimate latency of the different algorithms for the two collective operations.
+    * Comparing the values obtained using different algorithms
+2. Fix the message size, collect data varying the number of processes and build a model to estimate latency of the different algorithms for the two collective operations
 
 <!-- _class: lead -->
 
