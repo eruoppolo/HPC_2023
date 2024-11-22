@@ -21,7 +21,7 @@ mkdir -p ../results ../plots
 
 executable="mandelbrot"
 output_dir=""
-output_file="${output_dir}strong_scaling_MPI_EPYC_ms_1.csv"
+output_file="${output_dir}strong_scaling_MPI_EPYC_ms.csv"
 
 # Check if executable exists
 if [ ! -f "$executable" ]; then
