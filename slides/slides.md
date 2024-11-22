@@ -200,7 +200,7 @@ $$
 
 ### Curse of the problem
 
-* <u>Workload balancement</u>: the points distributions is not uniform, some processes may work way more than others
+* <u>Workload balancement</u>: the points distribution is not homogeneous, some processes may work way more than others
 
 ---
 # Strategy
