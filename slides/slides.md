@@ -114,7 +114,7 @@ _Università degli Studi di Trieste - a.a. 2023-2024_
 *  point-to-point latency communication between the different node binding:
 
 | Region              | Latency $(\mu s)$ |
-| ------------------  | --------- |
+| ------------------  | :---------: |
 | Same CCX            | 0.15   |
 | Same CCD, Diff. CCX | 0.31   |
 | Same NUMA           | 0.34   |
@@ -200,7 +200,7 @@ $$
 
 ### Curse of the problem
 
-* <u>Workload balancement</u>
+* <u>Workload balancement</u>: the points distributions is not uniform, some processes may work way more than others
 
 ---
 # Strategy
@@ -275,17 +275,16 @@ $$\text{Size of the image} = n\times n$$
 <tbody>
 <tr>
 <td style="text-align:left"><strong>Processes</strong></td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">[1-256]</td>
-<td style="text-align:center">[1-256]</td>
+<td style="text-align:center" colspan="2">1</td>
+<td style="text-align:center" colspan="2">[1-256]</td>
+
 </tr>
 <tr>
 <td style="text-align:left"><strong>Threads</strong></td>
-<td style="text-align:center">[1-128]</td>
-<td style="text-align:center">[1-128]</td>
-<td style="text-align:center">1</td>
-<td style="text-align:center">1</td>
+<td style="text-align:center" colspan="2">[1-128]</td>
+
+<td style="text-align:center" colspan="2">1</td>
+
 </tr>
 </tbody>
 <tbody>
@@ -341,26 +340,93 @@ $$  S_{G}(N) = f + (1-f)\cdot N  $$
 
 ---
 
+# Second attempt: <u> dynamic (MPI) workload </u>
 
-```python
-def iterative_solution(initial_beta, epsilon=1e-6):
-    beta_current = initial_beta
-    while True:
-        beta_next = update_beta(beta_current)
-        if norm(beta_next - beta_current) < epsilon:
-            return beta_next
-        beta_current = beta_next
+* Despite the problem being embarassingly parallelizable the static approach doesn't totally exploit this property 
+
+* As the threads are **dynamically scheduled** we can do it with the processes too, using a **master/workers** solution:
+
+  * A single process (e.g. ``rank 0``) acts as a master, it distributes the work (a number of rows) to the processes whenever they are free
+  * As a result there are processes which compute more rows (with lower complexity) and others which compute less rows (with higher complexity)
+  * Master and workers interact with non blocking communications to reduce idle time 
+    * ``MPI_Isend``: workers while computing send new request to master
+    * ``MPI_Iprobe``: master constantly controls incoming messages
+  * Master collects the computed data whenever ready and writes on the image
+
+<!-- _class: false -->
+---
+## Master
+```c
+//...
+#define ROWS_PER_REQUEST 10
+/...
+if (rank == 0) {
+        // MASTER PROCESS
+        // set rows to assign and count the active workers, allocate memory for the full image ...
+        int pending_results = 0; // trace the number of pending results
+        while (active_workers > 0 || pending_results > 0) { // ...
+            MPI_Iprobe(MPI_ANY_SOURCE, MPI_ANY_TAG, MPI_COMM_WORLD, &flag, &recv_status);
+            if (flag) {
+                if (recv_status.MPI_TAG == TAG_WORK_REQUEST) { // receive work request ...
+                    MPI_Recv(&message, 1, MPI_INT, worker_rank, TAG_WORK_REQUEST, MPI_COMM_WORLD, &status);
+                    if (next_row < ny) { // assign job
+                      }
+                        MPI_Send(&rows_to_assign, 1, MPI_INT, worker_rank, TAG_WORK_ASSIGNMENT, MPI_COMM_WORLD); // send job assignement
+                        MPI_Send(&start_row, 1, MPI_INT, worker_rank, TAG_WORK_ASSIGNMENT, MPI_COMM_WORLD);
+                        pending_results++;
+                    } else { // If no work left send message of termination 
+                    }
+                } else if (recv_status.MPI_TAG == TAG_WORK_RESULT) {
+                    MPI_Recv(&rows_received, 1, MPI_INT, worker_rank, TAG_WORK_RESULT, MPI_COMM_WORLD, &status); // receive work results ...
+                    // ...
+                    pending_results--;
+                }
+        }
+        // end the computation timer and start the I/O timer, 
+        //and the image writing, at the end stop the timer, print all the results and free space
+    }
 ```
+---
+## Workers
+```c
+else {
+        // WORKERS
+        //...
+        
+        MPI_Isend(&message, 1, MPI_INT, 0, TAG_WORK_REQUEST, MPI_COMM_WORLD, &send_request); // initial work request to the master
+        while (1) {
+            MPI_Recv(&rows_to_compute, 1, MPI_INT, 0, MPI_ANY_TAG, MPI_COMM_WORLD, &status); // receive work from  master
+            if (status.MPI_TAG == TAG_WORK_ASSIGNMENT) {
+                MPI_Recv(&start_row, 1, MPI_INT, 0, TAG_WORK_ASSIGNMENT, MPI_COMM_WORLD, &status);  // receive start_row
+                unsigned char* rows_data = (unsigned char*)malloc(rows_to_compute * nx); // allocate memory for rows
+                // ... error handling
+                }
+                MPI_Isend(&message, 1, MPI_INT, 0, TAG_WORK_REQUEST, MPI_COMM_WORLD, &send_request);
+                #pragma omp parallel for schedule(dynamic)
+                  // computation ...
+                    }
+                }
+		// ... send computed data to master ...
+
+        MPI_Wait(&send_request, MPI_STATUS_IGNORE); // barrier to wait end the of all computation before starting the new work
+  }
+```
+---
+# Results
+
+![width:1100px](../ex2/MPI_balancement/plots/balancement_plot.png)
 
 ---
-## Conclusions
+# Conclusions ...
 
-### Key Findings
-- Theoretical contribution
-- Practical implications
-- Future research directions
+- Balancing the workload is crucial to exploit the power of parallelization
+- MPI requires more sophisticated strategies (e.g. master/Workers)
+- OMP suffers out of a single socket
+## ... and further improvements
+- Testing more in deep binding and mapping policies
+- Testing hybrid scaling strategies to assess their efficiency
 
-### References
-1. Author, A. (Year). *Title*. Journal
-2. Author, B. (Year). *Title*. Conference
+---
+# THANKS FOR THE ATTENTION
+
 
